@@ -1,0 +1,109 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Home - XLC Team</title>
+  <meta name="description" content="">
+
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/jquery.ui.potato.menu.css">
+  <link href='http://fonts.googleapis.com/css?family=Days%20One|Imprima' rel='stylesheet' type='text/css'>
+
+  <script src="/js/libs/modernizr.js"></script>
+</head>
+<body>
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+  <div id="container">
+    <header>
+      <h1> XLC Team </h1>
+      <div id="logo">
+        <img src="/img/logo_head.png" />
+      </div>
+      <p class="motto"> <em> We build robots. Because we can.</em> </p>
+     <div style="clear: both"></div>
+    </header>
+    <div role="main">
+      <div>
+        <nav >
+          <ul id="menu">
+            <li>
+                <a class="selected" title="You're here.">&nbsp<img src="/img/logo_icon.png" />&nbsp</a> 
+            </li>
+            <li> <a href="/about/">About</a> </li>
+            <li> <a href="/achievements/">Achievements</a> </li>
+            <li> <a href="/projects/">Projects</a>
+              <ul>
+                <li> <a href="/projects/robots">Robots</a> </li>
+                <li> <a href="/projects/software">Software</a> </li>
+              </ul>
+            </li>
+            <li> <a href="/sponsors/">Sponsors</a>  </li>
+            <li> <a href="/contact/">Contact</a>  </li>
+          </ul>
+        </nav>
+      </div>
+      <div id="content">
+        <p> <h1>Hi There!</h1> </p>
+<p>We are the XLC Team, a robotic team from Slovakia. </p>
+<p> Most of the time we build robots.<br />
+Some of them <a href="/robots/soccer">play socer</a>. <br />
+Some are trying to act as rescurers. <br />
+Some even <a href="/robots/dance">dance</a>. <br />
+Nearly all of them participate in the 
+<a href="http://robotika.sk/rcj">RoboCup Junior</a> competition.
+  </p>
+<p>We also teach others how to build and program them.</p>
+<p>Apart from that <a href="/projects">we build software</a> which makes it easier 
+    to do what we do.</p>
+<p>We do all of this because we can.<br /> 
+And we can because we are <a href="/about#driven-by-passion">driven by passion</a>. <br /> 
+And supported by our sponsors. </p>
+<p>And we would be really greatful if you could support us. </p>
+
+      <div style="clear: both"></div>
+    </div>
+    <footer>
+      The XLC Team &copy 2012 All Rights Reserved
+    </footer>
+    <div style="clear: both"></div>
+  </div>  
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/js/libs/jquery.js"><\/script>')</script>
+  <script src="/js/jquery.ui.potato.menu.js"></script>
+
+  <script src="/js/plugins.js"></script>
+  <script src="/js/script.js"></script>
+
+  <script>
+    $(function(){
+      if ($.browser.mozilla) {
+        $('header h1').css('letter-spacing', '-0.10em');
+      }
+
+      $('#menu').ptMenu({horizontal: true});
+      if ( $('#menu a:first').hasClass('selected') ) {
+        $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
+      } else {
+        $('#menu a:first').mouseover(function(){
+          $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
+        });
+        $('#menu a:first').mouseout(function(){
+          $('#menu a:first img').attr('src', '/img/logo_icon.png');
+        });
+      }
+
+    });
+
+    var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'http://ssl':'http://www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+</body>
+</html>
