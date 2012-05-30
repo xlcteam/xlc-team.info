@@ -1,0 +1,85 @@
+---
+title: About
+---
+
+# About Us
+
+We are a group of young people interested in programming, electronics, robots
+and other similar things. 
+
+
+<div class="center_photo" markdown="1">
+
+![the Team Photo](/img/team.png)
+
+</div>
+
+The Team
+--------
+
+
+<div class="photo" markdown="1">
+
+![Gazi](/img/avatars/gazi.png)
+
+</div>
+
+<div class="about" markdown="1">
+
+#### Rastislav Gaži 
+*the leader* 
+
+Mr. Gaži is the driving force behind the XLC Team. His energy, passion and
+vision are visible in everything we created. As a team leader he makes sure we
+have everything we need for our work. 
+
+Apart from that, he makes sure we never forget that what we do should be fun 
+first and everything else then.
+
+</div>
+
+<div style='clear:both'></div>
+
+
+#### Jakub Krošlák
+*master of electronics*
+
+
+#### Ján Ďurkáč
+*master of the force*
+
+#### Marek Šuppa
+*the lead developer*
+
+
+
+#### Adrián Matejov
+*master of the flash*
+
+#### Martin Faltus
+*master of ...*
+
+
+### Padawans
+
+
+
+#### Dávid Fusan
+*drunken master of wisdom*
+
+#### Mário Kačina
+
+#### Miška Gažiová
+
+
+The name
+--------
+
+
+
+Passion
+-------
+
+
+
+
