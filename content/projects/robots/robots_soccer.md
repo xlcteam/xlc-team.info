@@ -15,7 +15,10 @@ title: Soccer robots
 #### ALeX 
 *Another Light-weight eXtreme* 
 
-text text text text text
+    Position: Attacker
+    Controller: Arduino
+    Video analyzing: BeagleBoard
+    Kicker: Solenoid
 
 </div>
 
@@ -33,7 +36,10 @@ text text text text text
 #### ViCtOR
 *Visually Controlled Omniwheeled Robot* 
 
-text text text text text
+    Position: Attacker
+    Controller: Arduino
+    Video analyzing: BeagleBoard
+    Kicker: Solenoid
 
 </div>
 
@@ -51,7 +57,9 @@ text text text text text
 #### SGs
 *Singapore robots* 
 
-text text text text text
+    Controller: NXT Brick
+    Positions: Both attackers and goalkeepers
+    Kicker: Solenoid
 
 </div>
 
