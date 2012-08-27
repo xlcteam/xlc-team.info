@@ -23,9 +23,6 @@ title: Achievements
 ------------
 - RoboCup Junior Slovak Open - Soccer B secondary - 1st prize
 - RoboCup Junior Slovak Open - Soccer A secondary - 2nd prize
-- First Lego League Slovakia - Research project - 1st prize
-- First Lego League Slovakia - Robot Design - 2nd prize
-- First Lego League Slovakia - Overall Standings - 2nd prize
 - Topvedam - 2nd prize
 - You can see our robots in [TV Markiza](http://video.markiza.sk/archiv-tv-markiza/televizne-noviny/39114) (22nd shot)
 
@@ -34,4 +31,7 @@ title: Achievements
 - RoboCup Junior World Championship Graz - Soccer B primary - 22nd prize
 - RoboCup Junior Slovak Open - Soccer A primary - 2nd prize
 - RoboCup Junior Slovak Open - Construction - 2nd prize
+- First Lego League Slovakia - Research project - 1st prize
+- First Lego League Slovakia - Robot Design - 2nd prize
+- First Lego League Slovakia - Overall Standings - 2nd prize
 - Topvedam - 1st prize
