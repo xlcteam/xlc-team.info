@@ -57,29 +57,16 @@ first and everything else then.
 *master of the flash*
 
 #### Martin Faltus
-*master of ...*
+*master of screwing*
 
 
 ### Padawans
-
-
 
 #### Dávid Fusan
 *drunken master of wisdom*
 
 #### Mário Kačina
+*master of the bikes*
 
 #### Miška Gažiová
-
-
-The name
---------
-
-
-
-Passion
--------
-
-
-
-
+*the lead padawan*
