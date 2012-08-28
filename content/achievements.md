@@ -13,7 +13,7 @@ title: Achievements
 ## Year 2011
 ------------
 - RoboCup Junior World Championship Istanbul - Soccer Lightweight secondary - 14th prize
-- RoboCup Junior World Championship Istanbul - Soccer B secondary - 8th prize
+- RoboCup Junior World Championship Istanbul - Soccer B - 8th prize
 - RoboCup Junior Slovak Open - Soccer B secondary - 1st prize
 - RoboCup Junior Slovak Open - Soccer A secondary - 2nd prize
 - RoboCup Junior Slovak Open - Rescue Primary - 3rd prize
@@ -21,6 +21,7 @@ title: Achievements
 
 ## Year 2010
 ------------
+- RoboCup Junior World Championship Singapore - Soccer B - results not published
 - RoboCup Junior Slovak Open - Soccer B secondary - 1st prize
 - RoboCup Junior Slovak Open - Soccer A secondary - 2nd prize
 - Topvedam - 2nd prize
@@ -28,7 +29,7 @@ title: Achievements
 
 ## Year 2009
 ------------
-- RoboCup Junior World Championship Graz - Soccer B primary - 22nd prize
+- RoboCup Junior World Championship Graz - Soccer B - 22nd prize
 - RoboCup Junior Slovak Open - Soccer A primary - 2nd prize
 - RoboCup Junior Slovak Open - Construction - 2nd prize
 - First Lego League Slovakia - Research project - 1st prize
