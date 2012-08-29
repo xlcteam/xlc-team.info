@@ -44,14 +44,11 @@ first and everything else then.
 #### Jakub Krošlák
 *master of electronics*
 
-
 #### Ján Ďurkáč
 *master of the force*
 
 #### Marek Šuppa
 *the lead developer*
-
-
 
 #### Adrián Matejov
 *master of the flash*
