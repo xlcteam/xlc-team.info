@@ -62,7 +62,7 @@ first and everything else then.
 #### Dávid Fusan
 *drunken master of wisdom*
 
-#### Miška Gažiová
+#### Michaela Gažiová
 *the lead padawan*
 
 #### Mário Kačina
