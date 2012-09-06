@@ -1,0 +1,105 @@
+Crashlog created at 2012-09-05 14:15:11 +0200
+
+=== MESSAGE:
+
+Errno::EACCES: Permission denied - tmp/checksums
+
+=== COMPILATION STACK:
+
+  (empty)
+
+=== BACKTRACE:
+
+  0. /usr/lib/ruby/1.9.1/pstore.rb:377:in `initialize'
+  1. /usr/lib/ruby/1.9.1/pstore.rb:377:in `new'
+  2. /usr/lib/ruby/1.9.1/pstore.rb:377:in `open_and_lock_file'
+  3. /usr/lib/ruby/1.9.1/pstore.rb:319:in `block in transaction'
+  4. <internal:prelude>:10:in `synchronize'
+  5. /usr/lib/ruby/1.9.1/pstore.rb:316:in `transaction'
+  6. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/base/store.rb:76:in `load'
+  7. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/base/compilation/compiler.rb:122:in `block in load'
+  8. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/base/compilation/compiler.rb:122:in `each'
+  9. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/base/compilation/compiler.rb:122:in `load'
+  10. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/base/compilation/compiler.rb:82:in `run'
+  11. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/base/source_data/site.rb:57:in `compile'
+  12. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/cli/commands/compile.rb:57:in `run'
+  13. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/cli/command_runner.rb:14:in `block in call'
+  14. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/cli/error_handler.rb:63:in `handle_while'
+  15. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
+  16. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/cli/command_runner.rb:13:in `call'
+  17. /home/xg/.gem/ruby/1.9.1/gems/cri-2.3.0/lib/cri/command_dsl.rb:185:in `block in runner'
+  18. /home/xg/.gem/ruby/1.9.1/gems/cri-2.3.0/lib/cri/command.rb:296:in `call'
+  19. /home/xg/.gem/ruby/1.9.1/gems/cri-2.3.0/lib/cri/command.rb:296:in `run_this'
+  20. /home/xg/.gem/ruby/1.9.1/gems/cri-2.3.0/lib/cri/command.rb:249:in `run'
+  21. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/cli/commands/nanoc.rb:39:in `block in define'
+  22. /home/xg/.gem/ruby/1.9.1/gems/cri-2.3.0/lib/cri/command.rb:296:in `call'
+  23. /home/xg/.gem/ruby/1.9.1/gems/cri-2.3.0/lib/cri/command.rb:296:in `run_this'
+  24. /home/xg/.gem/ruby/1.9.1/gems/cri-2.3.0/lib/cri/command.rb:249:in `run'
+  25. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/cli.rb:47:in `block in run'
+  26. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/cli/error_handler.rb:63:in `handle_while'
+  27. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
+  28. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib/nanoc/cli.rb:44:in `run'
+  29. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/bin/nanoc:19:in `<top (required)>'
+  30. /home/xg/.gem/ruby/1.9.1/bin/nanoc:23:in `load'
+  31. /home/xg/.gem/ruby/1.9.1/bin/nanoc:23:in `<main>'
+
+=== VERSION INFORMATION:
+
+nanoc 3.4.0 © 2007-2012 Denis Defreyne.
+Running ruby 1.9.3 (2012-04-20) on i686-linux with RubyGems 1.8.23.
+
+=== INSTALLED GEMS:
+
+  bigdecimal 1.1.0
+  colored 1.2
+  cri 2.3.0
+  io-console 0.3
+  json 1.5.4
+  kramdown 0.13.8
+  minitest 2.5.1
+  nanoc 3.4.0
+  rake 0.9.2.2
+  rdoc 3.9.4
+
+=== ENVIRONMENT:
+
+COLORTERM => "gnome-terminal"
+DISPLAY => ":0"
+G_BROKEN_FILENAMES => "1"
+HOME => "/home/xg"
+LANG => "en_US.UTF-8"
+LOGNAME => "xg"
+MAIL => "/var/spool/mail/xg"
+MOZ_PLUGIN_PATH => "/usr/lib/mozilla/plugins"
+OLDPWD => "/home/xg/work/dev/xlcteam"
+PATH => "/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/bin/core_perl:/home/xg/.gem/ruby/1.9.1/bin:/home/xg/.gem/ruby/1.9.1/bin"
+PWD => "/home/xg/work/dev/xlcteam/xlc-team.info"
+SHELL => "/bin/bash"
+SHLVL => "3"
+TERM => "xterm"
+TERMINATOR_UUID => "urn:uuid:b4c4bb1a-40b3-4a89-bd8a-553a1d09653a"
+USER => "xg"
+WINDOWID => "14680067"
+WINDOWPATH => "7"
+XAUTHORITY => "/home/xg/.Xauthority"
+XDG_CACHE_HOME => "/home/xg/.cache"
+XDG_CONFIG_DIRS => "/etc/xdg"
+XDG_CONFIG_HOME => "/home/xg/.config"
+XDG_DATA_DIRS => "/usr/local/share/:/usr/share/"
+XDG_DATA_HOME => "/home/xg/.local/share"
+_ => "/home/xg/.gem/ruby/1.9.1/bin/nanoc"
+
+=== $LOAD_PATH:
+
+  0. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib
+  1. /home/xg/.gem/ruby/1.9.1/gems/colored-1.2/lib
+  2. /home/xg/.gem/ruby/1.9.1/gems/cri-2.3.0/lib
+  3. /home/xg/.gem/ruby/1.9.1/gems/nanoc-3.4.0/lib
+  4. /usr/lib/ruby/site_ruby/1.9.1
+  5. /usr/lib/ruby/site_ruby/1.9.1/i686-linux
+  6. /usr/lib/ruby/site_ruby
+  7. /usr/lib/ruby/vendor_ruby/1.9.1
+  8. /usr/lib/ruby/vendor_ruby/1.9.1/i686-linux
+  9. /usr/lib/ruby/vendor_ruby
+  10. /usr/lib/ruby/1.9.1
+  11. /usr/lib/ruby/1.9.1/i686-linux
