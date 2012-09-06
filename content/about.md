@@ -48,16 +48,26 @@ first and everything else then.
 #### Ján Ďurkáč
 *master of the force*
 
+
+
+
 #### Marek Šuppa
 *the lead developer*
 
 
 
 #### Adrián Matejov
-*master of the flash*
+*master of the {flash, todolist, you name it...}*
+
+
 
 #### Martin Faltus
 *master of ...*
+
+Have you heard about the Phantom of the Opera? Well, Martin is a lot like him.
+We never know where he is but if he appears he's got a handful of solutions
+to any problem. If you want to fix some broken electronics, 
+rewrite some software or solve a global crisis you should definitely contact him.
 
 
 ### Padawans

@@ -78,10 +78,6 @@
 
   <script>
     $(function(){
-      if ($.browser.mozilla) {
-        $('header h1').css('letter-spacing', '-0.10em');
-      }
-
       $('#menu').ptMenu({horizontal: true});
       if ( $('#menu a:first').hasClass('selected') ) {
         $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
