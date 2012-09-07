@@ -44,7 +44,6 @@ first and everything else then.
 #### Jakub Krošlák
 *master of electronics*
 
-
 #### Ján Ďurkáč
 *master of the force*
 
@@ -54,15 +53,13 @@ first and everything else then.
 #### Marek Šuppa
 *the lead developer*
 
-
-
 #### Adrián Matejov
 *master of the {flash, todolist, you name it...}*
 
 
 
 #### Martin Faltus
-*master of ...*
+*master of screwing*
 
 Have you heard about the Phantom of the Opera? Well, Martin is a lot like him.
 We never know where he is but if he appears he's got a handful of solutions
@@ -72,24 +69,14 @@ rewrite some software or solve a global crisis you should definitely contact him
 
 ### Padawans
 
-
-
 #### Dávid Fusan
 *drunken master of wisdom*
 
+#### Michaela Gažiová
+*the lead padawan*
+
 #### Mário Kačina
+*master of the bikes*
 
-#### Miška Gažiová
-
-
-The name
---------
-
-
-
-Passion
--------
-
-
-
-
+#### Marek Tebeľák
+*master of kofola*
