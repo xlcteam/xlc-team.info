@@ -47,6 +47,14 @@ first and everything else then.
 #### Ján Ďurkáč
 *master of the force*
 
+The force is all around us. We can't touch it, we can't see it, we can just
+feel it. And we can say the same about Johnny. He doesn't show up much in our
+small lab (and so you can't see or touch him) but you can feel him in nearly
+everything we created. 
+
+He's got great ideas, even though they are not always well suited for this
+world. The force is strong with this on.
+
 
 
 
@@ -65,7 +73,6 @@ Have you heard about the Phantom of the Opera? Well, Martin is a lot like him.
 We never know where he is but if he appears he's got a handful of solutions
 to any problem. If you want to fix some broken electronics, 
 rewrite some software or solve a global crisis you should definitely contact him.
-
 
 ### Padawans
 
