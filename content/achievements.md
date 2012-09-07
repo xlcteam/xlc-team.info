@@ -8,7 +8,7 @@ title: Achievements
 ------------
 - RoboCup Junior Slovak Open - Soccer B secondary - 1st prize
 - RoboCup Junior Slovak Open - Soccer A primary - 2nd prize
-- RoboCup Junior Slovak Open - Dance - 3rd prize
+- RoboCup Junior Slovak Open - Dance secondary - 3rd prize
 - Robotic battle - Racing - 2nd prize
 - Robotic battle - Own model - 1st prize
 - Robotic battle - Awarded for robot design
