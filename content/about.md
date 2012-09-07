@@ -17,7 +17,7 @@ and other similar things.
 The Team
 --------
 
-
+<!-- Gazi -->
 <div class="photo" markdown="1">
 
 ![Gazi](/img/avatars/gazi.png)
@@ -39,7 +39,7 @@ first and everything else then.
 </div>
 
 <div style='clear:both'></div>
-
+<!-- /gazi -->
 
 #### Jakub Krošlák
 *master of electronics*
@@ -78,5 +78,18 @@ rewrite some software or solve a global crisis you should definitely contact him
 #### Mário Kačina
 *master of the bikes*
 
+<!-- marek tebelak -->
+<div class="photo" markdown="1">
+
+![MarekT](/img/avatars/marekt.png)
+
+</div>
+
+<div class="about" markdown="1">
 #### Marek Tebeľák
-*master of kofola*
+*master of quicak*
+
+</div>
+
+<div style='clear:both'></div>
+<!-- /marek tebelak -->
