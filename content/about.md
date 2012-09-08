@@ -53,7 +53,7 @@ small lab (and so you can't see or touch him) but you can feel him in nearly
 everything we created. 
 
 He's got great ideas, even though they are not always well suited for this
-world. The force is strong with this on.
+world. The force is strong with this one.
 
 
 
