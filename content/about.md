@@ -49,7 +49,9 @@ and electronics) and his intelligence (software). But even if you had the best
 intelligence in the whole universe, without the robot itself it's not very
 useful. 
 
-
+Fortunately we've got Jakub in our team who makes sure that there are robots we
+can run our logic on. Despite being relatively young he already deserves the
+title master.
 
 
 #### Ján Ďurkáč
@@ -100,6 +102,8 @@ And guess what? She does some real programming!
 
 #### Mário Kačina
 *master of the bikes*
+
+
 
 <!-- marek tebelak -->
 <div class="photo" markdown="1">
