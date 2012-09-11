@@ -44,6 +44,14 @@ first and everything else then.
 #### Jakub Krošlák
 *master of electronics*
 
+Robots (as well as computers) have two basic parts. The robot itself (hardware
+and electronics) and his intelligence (software). But even if you had the best
+intelligence in the whole universe, without the robot itself it's not very
+useful. 
+
+
+
+
 #### Ján Ďurkáč
 *master of the force*
 
@@ -52,9 +60,9 @@ feel it. And we can say the same about Johnny. He doesn't show up much in our
 small lab (and so you can't see or touch him) but you can feel him in nearly
 everything we created. 
 
-He's got great ideas, even though they are not always well suited for this
-world. The force is strong with this one.
+He's got some great ideas, even though this world is not always ready for them.
 
+The force is strong with this one. Maybe that's why they call him D'urikonX.
 
 
 
@@ -62,7 +70,8 @@ world. The force is strong with this one.
 *the lead developer*
 
 #### Adrián Matejov
-*master of the {flash, todolist, you name it...}*
+*master of the {flash, todolist, video, cable, music, photo, key, you name it...}*
+
 
 
 
@@ -76,11 +85,18 @@ rewrite some software or solve a global crisis you should definitely contact him
 
 ### Padawans
 
+#### Michaela Gažiová
+*the lead padawan*
+
+Even though you might not believe this we also have a girl in our team! 
+
+And guess what? She does some real programming! 
+
+
 #### Dávid Fusan
 *drunken master of wisdom*
 
-#### Michaela Gažiová
-*the lead padawan*
+
 
 #### Mário Kačina
 *master of the bikes*
@@ -97,6 +113,5 @@ rewrite some software or solve a global crisis you should definitely contact him
 *master of quicak*
 
 </div>
-
 <div style='clear:both'></div>
 <!-- /marek tebelak -->
