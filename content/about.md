@@ -74,7 +74,13 @@ The force is strong with this one. Maybe that's why they call him D'urikonX.
 #### Adrián Matejov
 *master of the {flash, todolist, video, cable, music, photo, key, you name it...}*
 
+A good team needs to be adaptable. Or there just has to be someone who is able
+to fill the holes when they appear. 
 
+Thankfully we have someone who does precisely that. His name is Adrián (he is
+also known as adman or один) and is a man of many jobs. As you can see in above
+he does pretty much everything but we should not forget that he also produces
+some decent quality Python code.
 
 
 #### Martin Faltus
