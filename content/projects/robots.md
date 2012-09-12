@@ -9,7 +9,7 @@ Soccer
 - <a href="robots_soccer/index.html#alex">AleX</a>
 - <a href="robots_soccer/index.html#victor">ViCtOR</a>
 - <a href="robots_soccer/index.html#sgs">SGs</a>
-- Koza++
+- <a href="robots_soccer/index.html#kozapp">Koza++</a>
 
 Dance
 -----
