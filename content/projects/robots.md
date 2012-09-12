@@ -15,11 +15,11 @@ Dance
 -----
 - <a href="robots_dance/index.html#eliska">Eliska</a>
 - <a href="robots_dance/index.html#jozko">Jozko</a>
-- Dogs
+- <a href="robots_dance/index.html#dogs">Dogs</a>
 
 Rescue
 ------
-- Marekov (neviem meno)
+- Monk's rescue
 - Fuzac
 
 
