@@ -36,7 +36,7 @@ title: Soccer robots
 #### ViCtOR
 *Visually Controlled Omniwheeled Robot* 
 
-    Position: Attacker
+    Position: Goalkeeper
     Controller: Arduino
     Video analyzing: BeagleBoard
     Kicker: Solenoid
