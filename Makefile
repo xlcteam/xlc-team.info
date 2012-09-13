@@ -12,5 +12,8 @@ generate:
 	git commit -am "built $(shell cat .git/refs/heads/source)"
 		
 
+clean:
+	rm -rf output/
+	rm -rf tmp/
 
 
