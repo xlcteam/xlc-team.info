@@ -288,6 +288,10 @@ footer {
   margin: 8px;
 }
 
+#content .photo p{
+  margin-top: 0px !important;
+}
+
 #content .about {
   clear: right;
 }
@@ -296,5 +300,6 @@ footer {
   display: block;
   margin: 0 auto;
 }
+
 
 

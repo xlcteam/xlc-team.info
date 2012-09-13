@@ -17,7 +17,7 @@ and other similar things.
 The Team
 --------
 
-<!-- Gazi ------------------------------------------------------------->
+<!-- Gazi --> 
 <div class="photo" markdown="1">
 
 ![Gazi](/img/avatars/gazi.png)
@@ -39,9 +39,9 @@ first and everything else then.
 </div>
 
 <div style='clear:both'></div>
-<!-- /gazi ------------------------------------------------------------>
+<!-- /Gazi  --> 
 
-<!-- jakub ------------------------------------------------------------>
+<!-- Jakub -->
 <div class="photo" markdown="1">
 
 ![Jakub](/img/avatars/jakub.png)
@@ -65,9 +65,9 @@ title master.
 </div>
 
 <div style='clear:both'></div>
-<!-- /jakub ------------------------------------------------------------>
+<!-- /Jakub --> 
 
-<!-- durikon ----------------------------------------------------------->
+<!-- durikon --> 
 <div class="photo" markdown="1">
 
 ![Durikon](/img/avatars/durikon.png)
@@ -91,9 +91,9 @@ The force is strong with this one. Maybe that's why they call him D'urikonX.
 </div>
 
 <div style='clear:both'></div>
-<!-- /durikon --------------------------------------------------------->
+<!-- /durikon --> 
 
-<!-- mareks ----------------------------------------------------------->
+<!-- mrshu -->
 <div class="photo" markdown="1">
 
 ![Marek](/img/avatars/mareks.png)
@@ -108,9 +108,9 @@ The force is strong with this one. Maybe that's why they call him D'urikonX.
 </div>
 
 <div style='clear:both'></div>
-<!-- /mareks --------------------------------------------------------->
+<!-- /mrshu --> 
 
-<!-- ado ------------------------------------------------------------->
+<!-- ado --> 
 <div class="photo" markdown="1">
 
 ![Ado](/img/avatars/ado.png)
@@ -133,9 +133,9 @@ some decent quality Python code.
 </div>
 
 <div style='clear:both'></div>
-<!-- /ado ------------------------------------------------------------->
+<!-- /ado  -->
 
-<!-- mato ------------------------------------------------------------->
+<!-- mato -->
 <div class="photo" markdown="1">
 
 ![Mato](/img/avatars/mato.png)
@@ -155,11 +155,11 @@ rewrite some software or solve a global crisis you should definitely contact him
 </div>
 
 <div style='clear:both'></div>
-<!-- /mato ------------------------------------------------------------>
+<!-- /mato -->
 
 ### Padawans
 
-<!-- miska ------------------------------------------------------------>
+<!-- miska -->
 <div class="photo" markdown="1">
 
 ![Miska](/img/avatars/miska.png)
@@ -178,10 +178,10 @@ And guess what? She does some real programming!
 </div>
 
 <div style='clear:both'></div>
-<!-- /miska ---------------------------------------------------------->
+<!-- /miska -->
 
 
-<!-- david ----------------------------------------------------------->
+<!-- david -->
 <div class="photo" markdown="1">
 
 ![David](/img/avatars/david.png)
@@ -196,10 +196,10 @@ And guess what? She does some real programming!
 </div>
 
 <div style='clear:both'></div>
-<!-- /david --------------------------------------------------------->
+<!-- /david -->
 
 
-<!-- mario ---------------------------------------------------------->
+<!-- mario -->
 <div class="photo" markdown="1">
 
 ![Mario](/img/avatars/mario.png)
@@ -214,10 +214,10 @@ And guess what? She does some real programming!
 </div>
 
 <div style='clear:both'></div>
-<!-- /david -------------------------------------------------------->
+<!-- /david -->
 
 
-<!-- marekt -------------------------------------------------------->
+<!-- marekt -->
 <div class="photo" markdown="1">
 
 ![MarekT](/img/avatars/marekt.png)
@@ -230,4 +230,4 @@ And guess what? She does some real programming!
 
 </div>
 <div style='clear:both'></div>
-<!-- /marekt ------------------------------------------------------>
+<!-- /marekt -->
