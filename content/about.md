@@ -38,7 +38,7 @@ first and everything else then.
 
 </div>
 
-<div style='clear:both'></div>
+<div class='clear'></div>
 <!-- /Gazi  --> 
 
 <!-- Jakub -->
@@ -64,7 +64,7 @@ title master.
 
 </div>
 
-<div style='clear:both'></div>
+<div class='clear'></div>
 <!-- /Jakub --> 
 
 <!-- durikon --> 
@@ -90,7 +90,7 @@ The force is strong with this one. Maybe that's why they call him D'urikonX.
 
 </div>
 
-<div style='clear:both'></div>
+<div class='clear'></div>
 <!-- /durikon --> 
 
 <!-- mrshu -->
@@ -107,7 +107,7 @@ The force is strong with this one. Maybe that's why they call him D'urikonX.
 
 </div>
 
-<div style='clear:both'></div>
+<div class='clear'></div>
 <!-- /mrshu --> 
 
 <!-- ado --> 
@@ -132,7 +132,7 @@ some decent quality Python code.
 
 </div>
 
-<div style='clear:both'></div>
+<div class='clear'></div>
 <!-- /ado  -->
 
 <!-- mato -->
@@ -154,7 +154,7 @@ rewrite some software or solve a global crisis you should definitely contact him
 
 </div>
 
-<div style='clear:both'></div>
+<div class='clear'></div>
 <!-- /mato -->
 
 ### Padawans
@@ -177,7 +177,7 @@ And guess what? She does some real programming!
 
 </div>
 
-<div style='clear:both'></div>
+<div class='clear'></div>
 <!-- /miska -->
 
 
@@ -195,7 +195,7 @@ And guess what? She does some real programming!
 
 </div>
 
-<div style='clear:both'></div>
+<div class='clear'></div>
 <!-- /david -->
 
 
@@ -213,7 +213,7 @@ And guess what? She does some real programming!
 
 </div>
 
-<div style='clear:both'></div>
+<div class='clear'></div>
 <!-- /david -->
 
 
@@ -229,5 +229,5 @@ And guess what? She does some real programming!
 *master of quicak*
 
 </div>
-<div style='clear:both'></div>
+<div class='clear'></div>
 <!-- /marekt -->

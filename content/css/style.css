@@ -126,8 +126,8 @@ td { vertical-align: top; }
 
 
 body {
-  /*font-family: 'Days One', sans-serif; */
-  font-family: 'Exo', sans-serif;
+  font-family: 'Inder', sans-serif; 
+  /*font-family: 'Source Sans Pro', sans-serif;*/
   font-style: normal;
   font-weight: 400;
   text-transform: none;
@@ -284,8 +284,9 @@ footer {
 }
 
 #content .photo {
-  float: left; 
+  width: 210px;
   margin: 8px;
+  float: left;
 }
 
 #content .photo p{
@@ -293,13 +294,30 @@ footer {
 }
 
 #content .about {
-  clear: right;
+  width: 300px;
+  font-size: 16px;
+  float: left;
+  padding-bottom: 50px;
 }
+
+
+#content .about h4{
+  font-family: 'Capriola', sans-serif;
+  font-size: 22px;
+  margin-top: 0px;
+}
+
+#content .about p:nth-child(2){
+  font-size: 14px;
+  font-family: 'Capriola', sans-serif;
+}
+
 
 #content .center_photo img {
   display: block;
   margin: 0 auto;
 }
 
-
-
+#content .clear{
+  clear: right;
+}
