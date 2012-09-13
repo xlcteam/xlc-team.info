@@ -36,7 +36,7 @@ title: Soccer robots
 #### ViCtOR
 *Visually Controlled Omniwheeled Robot* 
 
-    Position: Attacker
+    Position: Goalkeeper
     Controller: Arduino
     Video analyzing: BeagleBoard
     Kicker: Solenoid
@@ -48,7 +48,7 @@ title: Soccer robots
 <!-- new robot -->
 <div class="photo" markdown="1" id="sgs">
 
-![ViCtOR](/img/robots/soccer/sgs.png)
+![SGS](/img/robots/soccer/sgs.png)
 
 </div>
 
@@ -59,6 +59,26 @@ title: Soccer robots
 
     Controller: NXT Brick
     Positions: Both attackers and goalkeepers
+    Kicker: Solenoid
+
+</div>
+
+<div style='clear:both'></div>
+
+<!-- new robot -->
+<div class="photo" markdown="1" id="kozapp">
+
+![Koza++](/img/robots/soccer/kozapp.png)
+
+</div>
+
+<div class="about" markdown="1">
+
+#### Koza++
+*NXT Goat* 
+
+    Controller: NXT Brick
+    Positions: Both attacker and goalkeeper
     Kicker: Solenoid
 
 </div>
