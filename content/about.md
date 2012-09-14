@@ -105,6 +105,15 @@ The force is strong with this one. Maybe that's why they call him D'urikonX.
 #### Marek "mrShu" Šuppa
 *the lead developer*
 
+What does it mean to be the lead developer in a robotic team? 
+
+Well, different 
+things every day. It can mean doing an extensive research in computer vision and
+machine learning, teaching others, writing papers (or even books), giving
+talks, writing beautiful code, negotiating with people from the other side of 
+the world but also being responsible for everyone else, taking out the trash and 
+doing some boring stuff like this website.
+
 </div>
 
 <div class='clear'></div>
@@ -147,7 +156,9 @@ some decent quality Python code.
 #### Martin "MaTo" Faltus
 *master of screwing*
 
-Have you heard about the Phantom of the Opera? Well, Martin is a lot like him.
+Have you heard about the Phantom of the Opera? 
+
+Well, Martin is a lot like him.
 We never know where he is but if he appears he's got a handful of solutions
 to any problem. If you want to fix some broken electronics, 
 rewrite some software or solve a global crisis you should definitely contact him.
