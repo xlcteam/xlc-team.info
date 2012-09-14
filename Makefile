@@ -19,7 +19,7 @@ clean:
 
 show:
 	nanoc
-	nanoc view& 
-	$(BROWSER) http://0.0.0.0:3000/&
+	cd output; python2 -m SimpleHTTPServer&
+	$(BROWSER) http://0.0.0.0:8000/&
 
 

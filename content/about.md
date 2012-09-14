@@ -188,6 +188,10 @@ Even though you might not believe this we also have a girl in our team!
 
 And guess what? She does some real programming! 
 
+Moreover, she's able to learn new things very quickly. That's why she's the
+Padawan leader!
+
+
 </div>
 
 <div class='clear'></div>
@@ -206,7 +210,19 @@ And guess what? She does some real programming!
 #### Dávid "Kegare" Fusan
 *drunken master of wisdom*
 
+Many tried to gain wisdom. Some studied books, others were learning as
+apprentices of great masters, others just used some other way to get it.
 
+We weren't able to discover how Dávid managed to get his wisdom. Some claim
+that he must have been an apprentice of the great D'urikonX. They just have way
+so much in common.
+
+But that's not important. What is important are his quotations:
+
+- Let's assume you are right, even thought we all know that what you are saying
+  is true
+
+- Get lost from my vision!
 
 </div>
 
@@ -223,8 +239,17 @@ And guess what? She does some real programming!
 
 <div class="about" markdown="1">
 
-#### Mário "Draper" Kačina
+#### Mário "draper" Kačina
 *master of bikes*
+
+From the day one Mário managed to just fit into our existing team in a way no
+other member even could. He was (and is) so excited that infect everyone and
+made us even more excited then we were (and we were **really** excited). 
+
+He's also a live proof that once you are interested you do whatever it takes to
+get your crazy ideas come true. 
+
+
 
 </div>
 
@@ -240,8 +265,11 @@ And guess what? She does some real programming!
 </div>
 
 <div class="about" markdown="1">
-#### Marek "Monk" Tebeľák
+#### Marek "monk" Tebeľák
 *master of quicak*
+
+
+
 
 </div>
 <div class='clear'></div>
