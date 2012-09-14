@@ -268,8 +268,7 @@ get your crazy ideas come true.
 #### Marek "monk" Tebeľák
 *master of quicak*
 
-
-
+Well, the title says it all. 
 
 </div>
 <div class='clear'></div>
