@@ -129,7 +129,8 @@ doing some boring stuff like this website.
 <div class="about" markdown="1">
 
 #### Adrián "Adman" Matejov
-*master of the {flash, todolist, video, cable, music, photo...}*
+*master of the {flash, todolist, video, cable, music, photo, anything you need
+to get done...}*
 
 A good team needs to be adaptable. Or there just has to be someone who is able
 to fill the holes when they appear. 
@@ -268,7 +269,7 @@ get your crazy ideas come true.
 #### Marek "monk" Tebeľák
 *master of quicak*
 
-Well, the title says it all. 
+The title says it all. 
 
 </div>
 <div class='clear'></div>
