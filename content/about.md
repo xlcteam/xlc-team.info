@@ -111,7 +111,7 @@ Well, different
 things every day. It can mean doing an extensive research in computer vision and
 machine learning, teaching others, writing papers (or even books), giving
 talks, writing beautiful code, negotiating with people from the other side of 
-the world but also being responsible for everyone else, taking out the trash and 
+the world but also being responsible for everyone else, taking out the trash or
 doing some boring stuff like this website.
 
 </div>
@@ -169,6 +169,8 @@ rewrite some software or solve a global crisis you should definitely contact him
 <!-- /mato -->
 
 ### Padawans
+------------
+
 
 <!-- miska -->
 <div class="photo" markdown="1">
@@ -204,6 +206,8 @@ And guess what? She does some real programming!
 #### Dávid "Kegare" Fusan
 *drunken master of wisdom*
 
+
+
 </div>
 
 <div class='clear'></div>
@@ -220,7 +224,7 @@ And guess what? She does some real programming!
 <div class="about" markdown="1">
 
 #### Mário "Draper" Kačina
-*master of the bikes*
+*master of bikes*
 
 </div>
 

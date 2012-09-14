@@ -1,5 +1,6 @@
 
 TMPDIR  := $(shell mktemp -d)
+BROWSER := chromium
 
 
 generate:
@@ -15,5 +16,10 @@ generate:
 clean:
 	rm -rf output/
 	rm -rf tmp/
+
+show:
+	nanoc
+	nanoc view& 
+	$(BROWSER) http://0.0.0.0:3000/&
 
 
