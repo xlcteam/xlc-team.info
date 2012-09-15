@@ -322,7 +322,23 @@ footer {
   clear: right;
 }
 
+#social {
+  text-align: center;
+}
+
 /*social buttons adapted from http://zocial.smcllns.com/sample.html#*/
+
+@font-face {
+	font-family: 'social';
+	font-style: normal;
+	font-weight: normal;
+	src: url('fonts/zocial/zocial-regular-webfont-eot.eot');
+	src: url('fonts/zocial/zocial-regular-webfont-eot.eot?#iefix') format('embedded-opentype'),
+		url('fonts/zocial/zocial-regular-webfont-woff.woff') format('woff'),
+		url('fonts/zocial/zocial-regular-webfont-ttf.ttf') format('truetype');
+	unicode-range: U+0-U+10FFFF;
+}
+
 .social, a.social {
 	border: 1px solid #777 !important;
 	border-color: rgba(0,0,0,0.2) !important;
@@ -335,7 +351,7 @@ footer {
 	cursor: pointer !important;
 	display: inline-block !important;
 	font: bold 100%/2.1 "Lucida Grande", Tahoma, sans-serif !important;
-	padding: 0 .95em 0 0 !important;
+	padding: 0 1em 0 0 !important;
 	text-align: center !important;
 	text-decoration: none !important;
 	text-shadow: 0 1px 0 rgba(0,0,0,0.5) !important;
@@ -365,7 +381,7 @@ footer {
   text-align: center !important; 
 }
 
-.social:hover, .zocial:focus {
+.social:hover, .social:focus {
 	background-image: -moz-linear-gradient(rgba(255,255,255,.15) 49%, rgba(0,0,0,.1) 51%, rgba(0,0,0,.15)) !important;
 	background-image: -ms-linear-gradient(rgba(255,255,255,.15) 49%, rgba(0,0,0,.1) 51%, rgba(0,0,0,.15)) !important;
 	background-image: -o-linear-gradient(rgba(255,255,255,.15) 49%, rgba(0,0,0,.1) 51%, rgba(0,0,0,.15)) !important;
@@ -385,7 +401,7 @@ footer {
 }
 
 .social:before {
-	content: "" !important;
+	content: "";
 	border-right: 0.075em solid rgba(0,0,0,0.1) !important;
 	float: left !important;
 	font: 120%/1.65 social;
@@ -429,12 +445,12 @@ footer {
 
 /*github*/
 .social.github:active {
-	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, rgba(0,0,0,0)), to(rgba(0,0,0,0.1)));
-	background-image: -moz-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
-	background-image: -webkit-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
-	background-image: -o-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
-	background-image: -ms-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
-	background-image: linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
+	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, rgba(0,0,0,0)), to(rgba(0,0,0,0.1))) !important;
+	background-image: -moz-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1)) !important;
+	background-image: -webkit-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1)) !important;
+	background-image: -o-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1)) !important;
+	background-image: -ms-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1)) !important;
+	background-image: linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1)) !important;
 }
 .social.github:before { content: "g"; }
 .social.github { 

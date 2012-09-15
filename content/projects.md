@@ -10,3 +10,4 @@ title: Projects
 ## [Software](http://github.com/xlcteam)
 - [nxtIDE](http://github.com/xlcteam/nxtIDE)
 - [scoreBoard](http://github.com/xlcteam/scoreBoard)
+- [pixloid](http://github.com/xlcteam/pixloid)
