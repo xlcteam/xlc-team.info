@@ -348,7 +348,7 @@ footer {
 	user-select: none !important;
 	
 	position: relative !important;
-	
+	font-size: 13px !important;
 	-moz-border-radius: .3em !important;
 	-webkit-border-radius: .3em !important;
 	border-radius: .3em !important;
