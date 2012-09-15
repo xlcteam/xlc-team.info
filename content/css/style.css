@@ -422,11 +422,11 @@ footer {
 
 /*twitter*/
 .social.twitter:before { content: "T"; }
-.social .twitter { background-color: #46C0FB !important;}
+.social.twitter { background-color: #46C0FB !important;}
 
 /*facebook*/
 .social.facebook:before { content: "f"; }
-.social .facebook { background-color: #4863AE !important; }
+.social.facebook { background-color: #4863AE !important; }
 
 /*github*/
 .social.github:active {
