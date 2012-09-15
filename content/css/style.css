@@ -322,8 +322,6 @@ footer {
   clear: right;
 }
 
-#social {margin-bottom: 4px; text-align: center; }
-
 /*social buttons adapted from http://zocial.smcllns.com/sample.html#*/
 .social, a.social {
 	border: 1px solid #777 !important;
@@ -363,7 +361,8 @@ footer {
 	background-image: -webkit-linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.05) 49%, rgba(0,0,0,.05) 51%, rgba(0,0,0,.1)) !important;
 	background-image: linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.05) 49%, rgba(0,0,0,.05) 51%, rgba(0,0,0,.1)) !important;
 	margin: 8px 4px;
-	font-size: 13px;
+	font-size: 13px !important;
+  text-align: center !important; 
 }
 
 .social:hover, .zocial:focus {
