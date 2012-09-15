@@ -321,3 +321,142 @@ footer {
 #content .clear{
   clear: right;
 }
+
+#social {margin-bottom: 4px; text-align: center; }
+
+/*social buttons adapted from http://zocial.smcllns.com/sample.html#*/
+.social, a.social {
+	border: 1px solid #777 !important;
+	border-color: rgba(0,0,0,0.2) !important;
+	border-bottom-color: #333 !important;
+	border-bottom-color: rgba(0,0,0,0.4) !important;
+	color: #fff !important;
+	-moz-box-shadow: inset 0 0.08em 0 rgba(255,255,255,0.4), inset 0 0 0.1em rgba(255,255,255,0.9) !important;
+	-webkit-box-shadow: inset 0 0.08em 0 rgba(255,255,255,0.4), inset 0 0 0.1em rgba(255,255,255,0.9) !important;
+	box-shadow: inset 0 0.08em 0 rgba(255,255,255,0.4), inset 0 0 0.1em rgba(255,255,255,0.9) !important;
+	cursor: pointer !important;
+	display: inline-block !important;
+	font: bold 100%/2.1 "Lucida Grande", Tahoma, sans-serif !important;
+	padding: 0 .95em 0 0 !important;
+	text-align: center !important;
+	text-decoration: none !important;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.5) !important;
+	white-space: nowrap !important;
+	
+	-moz-user-select: none !important;
+	-webkit-user-select: none !important;
+	user-select: none !important;
+	
+	position: relative !important;
+	
+	-moz-border-radius: .3em !important;
+	-webkit-border-radius: .3em !important;
+	border-radius: .3em !important;
+}
+
+
+.social {
+	background-image: -moz-linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.05) 49%, rgba(0,0,0,.05) 51%, rgba(0,0,0,.1)) !important;
+	background-image: -ms-linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.05) 49%, rgba(0,0,0,.05) 51%, rgba(0,0,0,.1)) !important;
+	background-image: -o-linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.05) 49%, rgba(0,0,0,.05) 51%, rgba(0,0,0,.1)) !important;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,.1)), color-stop(49%, rgba(255,255,255,.05)), color-stop(51%, rgba(0,0,0,.05)), to(rgba(0,0,0,.1))) !important;
+	background-image: -webkit-linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.05) 49%, rgba(0,0,0,.05) 51%, rgba(0,0,0,.1)) !important;
+	background-image: linear-gradient(rgba(255,255,255,.1), rgba(255,255,255,.05) 49%, rgba(0,0,0,.05) 51%, rgba(0,0,0,.1)) !important;
+	margin: 8px 4px;
+	font-size: 13px;
+}
+
+.social:hover, .zocial:focus {
+	background-image: -moz-linear-gradient(rgba(255,255,255,.15) 49%, rgba(0,0,0,.1) 51%, rgba(0,0,0,.15)) !important;
+	background-image: -ms-linear-gradient(rgba(255,255,255,.15) 49%, rgba(0,0,0,.1) 51%, rgba(0,0,0,.15)) !important;
+	background-image: -o-linear-gradient(rgba(255,255,255,.15) 49%, rgba(0,0,0,.1) 51%, rgba(0,0,0,.15)) !important;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,.15)), color-stop(49%, rgba(255,255,255,.15)), color-stop(51%, rgba(0,0,0,.1)), to(rgba(0,0,0,.15))) !important;
+	background-image: -webkit-linear-gradient(rgba(255,255,255,.15) 49%, rgba(0,0,0,.1) 51%, rgba(0,0,0,.15)) !important;
+	background-image: linear-gradient(rgba(255,255,255,.15) 49%, rgba(0,0,0,.1) 51%, rgba(0,0,0,.15)) !important;
+}
+
+.social:active {
+	background-image: -moz-linear-gradient(bottom, rgba(255,255,255,.1), rgba(255,255,255,0) 30%, transparent 50%, rgba(0,0,0,.1)) !important;
+	background-image: -ms-linear-gradient(bottom, rgba(255,255,255,.1), rgba(255,255,255,0) 30%, transparent 50%, rgba(0,0,0,.1)) !important;
+	background-image: -o-linear-gradient(bottom, rgba(255,255,255,.1), rgba(255,255,255,0) 30%, transparent 50%, rgba(0,0,0,.1)) !important;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,.1)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, transparent), to(rgba(0,0,0,.1))) !important;
+	background-image: -webkit-linear-gradient(bottom, rgba(255,255,255,.1), rgba(255,255,255,0) 30%, transparent 50%, rgba(0,0,0,.1)) !important;
+	background-image: linear-gradient(bottom, rgba(255,255,255,.1), rgba(255,255,255,0) 30%, transparent 50%, rgba(0,0,0,.1)) !important;
+  outline: none !important;
+}
+
+.social:before {
+	content: "" !important;
+	border-right: 0.075em solid rgba(0,0,0,0.1) !important;
+	float: left !important;
+	font: 120%/1.65 social;
+	font-style: normal !important;
+	font-weight: normal !important;
+	margin: 0 0.5em 0 0 !important;
+	padding: 0 0.5em !important;
+	text-align: center !important;
+	text-decoration: none !important;
+	text-transform: none !important;
+	
+	-moz-box-shadow: 0.075em 0 0 rgba(255,255,255,0.25) !important;
+	-webkit-box-shadow: 0.075em 0 0 rgba(255,255,255,0.25) !important;
+	box-shadow: 0.075em 0 0 rgba(255,255,255,0.25) !important;
+	
+	-moz-font-smoothing: antialiased !important;
+	-webkit-font-smoothing: antialiased !important;
+	font-smoothing: antialiased !important;
+}
+
+
+/*define btns*/
+.social.github:focus,
+.social.github:hover,
+.social.twitter:focus {
+	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.5)), color-stop(49%, rgba(255,255,255,0.2)), color-stop(51%, rgba(0,0,0,0.05)), to(rgba(0,0,0,0.15))) !important;
+	background-image: -moz-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15)) !important;
+	background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15)) !important;
+	background-image: -o-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15)) !important;
+	background-image: -ms-linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15)) !important;
+	background-image: linear-gradient(top, rgba(255,255,255,0.5), rgba(255,255,255,0.2) 49%, rgba(0,0,0,0.05) 51%, rgba(0,0,0,0.15)) !important;
+}
+
+/*twitter*/
+.social.twitter:before { content: "T"; }
+.social .twitter { background-color: #46C0FB !important;}
+
+/*facebook*/
+.social.facebook:before { content: "f"; }
+.social .facebook { background-color: #4863AE !important; }
+
+/*github*/
+.social.github:active {
+	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0)), color-stop(30%, rgba(255,255,255,0)), color-stop(50%, rgba(0,0,0,0)), to(rgba(0,0,0,0.1)));
+	background-image: -moz-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
+	background-image: -webkit-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
+	background-image: -o-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
+	background-image: -ms-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
+	background-image: linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255,0) 30%, rgba(0,0,0,0) 50%, rgba(0,0,0,0.1));
+}
+.social.github:before { content: "g"; }
+.social.github { 
+  background-color: #fbfbfb !important; 
+  color: #050505 !important; 
+	border: 1px solid #aaa !important;
+	border-color: rgba(0,0,0,0.3) !important;
+	border-bottom-color: #777 !important;
+	border-bottom-color: rgba(0,0,0,0.5) !important;
+	-moz-box-shadow: inset 0 0.08em 0 rgba(255,255,255,0.7), inset 0 0 0.08em rgba(255,255,255,0.5) !important;
+	-webkit-box-shadow: inset 0 0.08em 0 rgba(255,255,255,0.7), inset 0 0 0.08em rgba(255,255,255,0.5) !important;
+	box-shadow: inset 0 0.08em 0 rgba(255,255,255,0.7), inset 0 0 0.08em rgba(255,255,255,0.5) !important;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.8) !important;
+}
+
+
+
+
+
+
+
+
+
+
