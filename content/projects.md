@@ -12,7 +12,7 @@ created recently:
 [Robots](robots/)
 -----------------
 
-We define ourselves as a robotic team so we should not only talk about them but
+We [define ourselves](/) as a robotic team so we should not only talk about them but
 also show you some. And here they are:
 
 ### Soccer
