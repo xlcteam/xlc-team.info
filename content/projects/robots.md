@@ -4,18 +4,22 @@ title: Robots
 
 # Robots
 
-[Soccer](robots_soccer/)
---------
-- <a href="robots_soccer/index.html#alex">AleX</a>
-- <a href="robots_soccer/index.html#victor">ViCtOR</a>
-- <a href="robots_soccer/index.html#sgs">SGs</a>
-- <a href="robots_soccer/index.html#kozapp">Koza++</a>
+We [define ourselves](/) as a robotic team so we should not only talk about them but
+also show you some. And here they are:
 
-[Dance](robots_dance)
--------
-- <a href="robots_dance/index.html#eliska">Eliska</a>
-- <a href="robots_dance/index.html#jozko">Jozko</a>
-- <a href="robots_dance/index.html#dogs">Dogs</a>
+
+### Soccer
+
+- <a href="soccer/index.html#alex">AleX</a>
+- <a href="soccer/index.html#victor">ViCtOR</a>
+- <a href="soccer/index.html#sgs">SGs</a>
+- <a href="soccer/index.html#kozapp">Koza++</a>
+
+### Dance
+
+- <a href="dance/index.html#eliska">Eliska</a>
+- <a href="dance/index.html#jozko">Jozko</a>
+- <a href="dance/index.html#dogs">Dogs</a>
 
 Rescue
 ------
