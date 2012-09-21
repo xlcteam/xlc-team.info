@@ -15,14 +15,14 @@ created recently:
 We [define ourselves](/) as a robotic team so we should not only talk about them but
 also show you some. And here they are:
 
-### Soccer
+### [Soccer](robots/soccer/)
 
 - <a href="robots/soccer/index.html#alex">AleX</a>
 - <a href="robots/soccer/index.html#victor">ViCtOR</a>
 - <a href="robots/soccer/index.html#sgs">SGs</a>
 - <a href="robots/soccer/index.html#kozapp">Koza++</a>
 
-### Dance
+### [Dance](robots/dance)
 
 - <a href="robots/dance/index.html#eliska">Eliska</a>
 - <a href="robots/dance/index.html#jozko">Jozko</a>
