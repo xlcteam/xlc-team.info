@@ -157,6 +157,10 @@ body {
   border-radius: 5px;
 }
 
+#container a.nohover:hover {
+  background-color: #fff; 
+}
+
 header {
   color: #222222;
 }
