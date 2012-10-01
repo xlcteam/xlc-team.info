@@ -26,7 +26,7 @@ The Team
 
 <div class="about" markdown="1">
 
-#### Rastislav Gaži 
+#### Rastislav Gaži  {#gazi}
 *the leader* 
 
 Mr. Gaži is the driving force behind the XLC Team. His energy, passion and
@@ -50,7 +50,7 @@ first and everything else then.
 
 <div class="about" markdown="1">
 
-#### Jakub "XalaH" Krošlák
+#### Jakub "XalaH" Krošlák   {#xalah}
 *master of electronics*
 
 Robots (as well as computers) have two basic parts. The robot itself (hardware
@@ -76,7 +76,7 @@ title master.
 
 <div class="about" markdown="1">
 
-#### Ján "D'urikonX" Ďurkáč
+#### Ján "D'urikonX" Ďurkáč {#durikonix}
 *master of the force*
 
 The force is all around us. We can't touch it, we can't see it, we can just
@@ -102,7 +102,7 @@ The force is strong with this one. Maybe that's why they call him D'urikonX.
 
 <div class="about" markdown="1">
 
-#### Marek "mrShu" Šuppa
+#### Marek "mrShu" Šuppa  {#mrshu}
 *the lead developer*
 
 What does it mean to be the lead developer in a robotic team? 
@@ -128,7 +128,7 @@ doing some boring stuff like this website.
 
 <div class="about" markdown="1">
 
-#### Adrián "Adman" Matejov
+#### Adrián "Adman" Matejov   {#adman}
 *master of the {flash, todolist, video, cable, music, photo, anything you need
 to get done...}*
 
@@ -154,7 +154,7 @@ some decent quality Python code.
 
 <div class="about" markdown="1">
 
-#### Martin "MaTo" Faltus
+#### Martin "MaTo" Faltus   {#mato}
 *master of screwing*
 
 Have you heard about the Phantom of the Opera? 
@@ -182,7 +182,7 @@ rewrite some software or solve a global crisis you should definitely contact him
 
 <div class="about" markdown="1">
 
-#### Michaela Gažiová
+#### Michaela Gažiová  {#miska}
 *the lead padawan*
 
 Even though you might not believe this we also have a girl in our team! 
@@ -208,7 +208,7 @@ Padawan leader!
 
 <div class="about" markdown="1">
 
-#### Dávid "Kegare" Fusan
+#### Dávid "Kegare" Fusan  {#shipuden}
 *drunken master of wisdom*
 
 Many tried to gain wisdom. Some studied books, others were learning as
@@ -240,7 +240,7 @@ But that's not important. What is important are his quotations:
 
 <div class="about" markdown="1">
 
-#### Mário "draper" Kačina
+#### Mário "draper" Kačina {#draper}
 *master of bikes*
 
 From the day one Mário managed to just fit into our existing team in a way no
@@ -266,7 +266,7 @@ get your crazy ideas come true.
 </div>
 
 <div class="about" markdown="1">
-#### Marek "monk" Tebeľák
+#### Marek "monk" Tebeľák {#marek}
 *master of quicak*
 
 The title says it all. 
