@@ -323,7 +323,7 @@ footer {
 }
 
 #content .clear{
-  clear: right;
+  clear: both;
 }
 
 #social {

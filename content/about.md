@@ -274,3 +274,28 @@ The title says it all.
 </div>
 <div class='clear'></div>
 <!-- /marekt -->
+
+Philosophy {#philosophy}
+----------
+
+
+The Name {#name}
+--------
+
+There is a nice story about our name. In our first years we were proudly using
+the pseudo-crypthographic name `0x584c43`. It's the hex representation of the
+string `XLC`. And how did we came up with that? Well, we were always fans of
+doing things simply (see [our philosophy](#philosophy)). Sometimes extremely
+simply. And so we thought that is might be a good idea to express this in our
+name too. 
+
+We had a little discussion and came up with the name `XLC` which can be
+abbreavation of 
+
+*e**X**tremely **L**ite **C**onstruction* or
+
+*e**X**tremely **L**ite **C**ode* 
+
+which shows the two parts every robot has to have: hardware and software.
+
+
