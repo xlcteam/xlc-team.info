@@ -278,6 +278,8 @@ The title says it all.
 Philosophy {#philosophy}
 ----------
 
+Our philosophy is simple, yet difficult to explain. 
+
 
 The Name {#name}
 --------
