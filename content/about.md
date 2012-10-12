@@ -292,12 +292,12 @@ simply. And so we thought that is might be a good idea to express this in our
 name too. 
 
 We had a little discussion and came up with the name `XLC` which can be
-abbreavation of 
+an abbreviation of 
 
 *e**X**tremely **L**ite **C**onstruction* or
 
 *e**X**tremely **L**ite **C**ode* 
 
-which shows the two parts every robot has to have: hardware and software.
+which shows the two crucial parts of every robot: hardware and software.
 
 
