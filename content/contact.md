@@ -4,10 +4,21 @@ title: Contact
 
 # Contact
 
+Discussing everthing is one of our core values. We really like it. And we also
+like to talk with people about pretty much everything. 
+
+So if you have something to say just write us an email, ping as on IRC, write
+us on [Twitter](http://twitter.com/XLCTeam), like us on [Facebook](http://facebook.com/xlc.team), 
+check out our code at [GitHub](http://github.com/xlcteam) or come in
+personally. We generally like visitors.
+
 Global mail - <a href="mailto:xlc.team@gmail.com">xlc.team@gmail.com</a>
 
 ## Members
 ----------
+
+
+
 - Ing. Rastislav Gaži - <a href="mailto:gazi@xlc-team.info">gazi@xlc-team.info</a>
 - Marek Šuppa - <a href="mailto:marek@xlc-team.info">marek@xlc-team.info</a>
 - Adrián Matejov - <a href="mailto:ado@xlc-team.info">ado@xlc-team.info</a>
