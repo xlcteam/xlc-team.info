@@ -275,10 +275,14 @@ The title says it all.
 <div class='clear'></div>
 <!-- /marekt -->
 
+
 Philosophy {#philosophy}
 ----------
 
 Our philosophy is simple, yet difficult to explain. 
+
+When we fist started we didn't know what we wanted to do. Actually, on many
+occasions we still don't. But honestly, we really like it that way. 
 
 
 The Name {#name}
@@ -299,5 +303,6 @@ an abbreviation of
 *e**X**tremely **L**ite **C**ode* 
 
 which shows the two crucial parts of every robot: hardware and software.
+
 
 
