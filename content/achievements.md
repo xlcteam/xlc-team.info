@@ -161,6 +161,7 @@ title: Achievements
   </div>
   <!-- //year 2009 -->
 
+  <br class="clear" />
 </div>
 
 
