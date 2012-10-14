@@ -11,7 +11,7 @@ title: Achievements
 
   <!-- year 2012 -->
   <div class="timelineMajor">
-    <h2 class="timelineMajorMarker">2012</h2>
+    <h2 class="timelineMajorMarker"><span>2012</span></h2>
     <dl class="timelineMinor">
 
       <dt id="event12"><a>RoboCup Junior Slovak Open</a></dt>
@@ -41,7 +41,7 @@ title: Achievements
 
   <!-- year 2011 -->
   <div class="timelineMajor">
-    <h2 class="timelineMajorMarker">2011</h2>
+    <h2 class="timelineMajorMarker"><span>2011</span></h2>
     <dl class="timelineMinor">
 
       <dt id="event10"><a>RoboCup Junior World Championship Singapore</a></dt>
@@ -79,7 +79,7 @@ title: Achievements
 
   <!-- year 2010 -->
   <div class="timelineMajor">
-    <h2 class="timelineMajorMarker">2010</h2>
+    <h2 class="timelineMajorMarker"><span>2010</span></h2>
     <dl class="timelineMinor">
 
       <dt id="event07"><a>RoboCup Junior World Championship Istanbul</a></dt>
@@ -115,7 +115,7 @@ title: Achievements
 
   <!-- year 2009 -->
   <div class="timelineMajor">
-    <h2 class="timelineMajorMarker">2009</h2>
+    <h2 class="timelineMajorMarker"><span>2009</span></h2>
     <dl class="timelineMinor">
 
       <dt id="event04"><a>RoboCup Junior World Championship Graz</a></dt>
@@ -173,7 +173,7 @@ title: Achievements
 
 
 
-<div style="font-size: 12px; text-align: center;" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://www.technotarek.com/timeliner/">Built using <span property="dct:title">Timeliner</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://www.technotarek.com/timeliner/www.technotarek.com/timeliner/">Tarek Anandan</a>) / <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></div>
+<div style="font-size: 12px; text-align: center;" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://www.technotarek.com/timeliner/">Built using <span property="dct:title">Timeliner</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://www.technotarek.com/timeliner/">Tarek Anandan</a>) / <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></div>
 
 
 
