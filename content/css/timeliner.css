@@ -166,13 +166,14 @@ div.timelineMajor {
 	float:left;
 	margin:0 0 12px;
 	width:900px;
+        font-size: 14px;
 }
 
 	.timelineMajor h2 {
 		background:url(../img/timeline_century_tick.gif) left center no-repeat;
 		color:#7097AF!important;
 		cursor: pointer;
-		font-family:Palatino,"Times New Roman", Times, serif;
+		/*font-family:Palatino,"Times New Roman", Times, serif;*/
 		font-size:3em!important;
 		font-weight:400!important;
 		margin:0 0 10px!important;

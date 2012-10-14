@@ -16,23 +16,23 @@ title: Achievements
 
       <dt id="event12"><a>RoboCup Junior Slovak Open</a></dt>
       <dd class="timelineEvent" id="event12EX" style="display: none; ">
-        <p><ul>
+        <div><ul>
              <li>Soccer B secondary - 1st prize</li>
              <li>Soccer A primary - 2nd prize</li>
              <li>Dance secondary - 3rd prize</li>
            </ul>
-        </p>
+        </div>
         <br class="clear">
       </dd>
 
       <dt id="event11"><a>Robotic Battle Kosice</a></dt>
       <dd class="timelineEvent" id="event11EX" style="display: none; ">
-        <p><ul>
+        <div><ul>
              <li>Racing - 2nd prize</li>
              <li>Own model - 1st prize</li>
              <li>Awarded for robot design</li>
            </ul>
-        </p>
+        </div>
         <br class="clear">
       </dd>
     </dl>
@@ -46,31 +46,31 @@ title: Achievements
 
       <dt id="event10"><a>RoboCup Junior World Championship Singapore</a></dt>
       <dd class="timelineEvent" id="event10EX" style="display: none; ">
-        <p><ul>
+        <div><ul>
              <li>Soccer Lightweight secondary - 14th prize</li>
              <li>Soccer B - 8th prize</li>
            </ul>
-        </p>
+        </div>
         <br class="clear"/>
       </dd>
 
       <dt id="event09"><a>RoboCup Junior Slovak Open</a></dt>
       <dd class="timelineEvent" id="event09EX" style="display: none; ">
-        <p><ul>
+        <div><ul>
              <li>Soccer B secondary - 1st prize</li>
              <li>Soccer A secondary - 2nd prize</li>
              <li>Rescue Primary - 3rd prize</li>
            </ul>
-        </p>
+        </div>
         <br class="clear">
       </dd>
 
       <dt id="event08"><a>Trencin Robotic Day</a></dt>
       <dd class="timelineEvent" id="event08EX" style="display: none; ">
-        <p><ul>
+        <div><ul>
              <li>Freestyle - 2nd place</li>
            </ul>
-        </p>
+        </div>
         <br class="clear">
       </dd>
     </dl>
@@ -84,29 +84,29 @@ title: Achievements
 
       <dt id="event07"><a>RoboCup Junior World Championship Istanbul</a></dt>
       <dd class="timelineEvent" id="event07EX" style="display: none; ">
-        <p><ul>
+        <div><ul>
              <li>Soccer B - results not published</li>
            </ul>
-        </p>
+        </div>
         <br class="clear">
        </dd>
 
       <dt id="event06"><a>RoboCup Junior Slovak Open</a></dt>
       <dd class="timelineEvent" id="event06EX" style="display: none; ">
-        <p><ul>
+        <div><ul>
              <li>Soccer B secondary - 1st prize</li>
              <li>Soccer A secondary - 2nd prize</li>
            </ul>
-        </p>
+        </div>
         <br class="clear">
       </dd>
 
       <dt id="event05"><a>Topvedam</a></dt>
       <dd class="timelineEvent" id="event05EX" style="display: none; ">
-        <p><ul>
+        <div><ul>
              <li>2nd prize</li>
            </ul>
-        </p>
+        </div>
         <br class="clear">
       </dd>
     </dl>
@@ -120,41 +120,41 @@ title: Achievements
 
       <dt id="event04"><a>RoboCup Junior World Championship Graz</a></dt>
       <dd class="timelineEvent" id="event04EX" style="display: none; ">
-        <p>
+        <div>
           <ul><li>Soccer B - 22nd prize</li></ul>
-        </p>
+        </div>
         <br class="clear">
       </dd>
 
       <dt id="event03"><a>RoboCup Junior Slovak Open</a></dt>
       <dd class="timelineEvent" id="event03EX" style="display: none; ">
-        <p>
+        <div>
           <ul>
             <li>Soccer A primary - 2nd prize</li>
             <li>Construction - 2nd prize</li>
           </ul>
-        </p>
+        </div>
         <br class="clear">
       </dd>
 
       <dt id="event02"><a>First Lego League</a></dt>
       <dd class="timelineEvent" id="event02EX" style="display: none; ">
-        <p>
+        <div>
           <ul>
             <li>Research project - 1st prize</li>
             <li>Robot Design - 2nd prize</li>
             <li>Overall Standings - 2nd prize</li>
           </ul>
-        </p>
+        </div>
         <br class="clear">
       </dd>
 
       <dt id="event01"><a>Topvedam</a></dt>
       <dd class="timelineEvent" id="event01EX" style="display: none; ">
-        <p><ul>
+        <div><ul>
              <li>1st prize</li>
            </ul>
-        </p>
+        </div>
         <br class="clear">
       </dd>
     </dl>
@@ -172,7 +172,7 @@ title: Achievements
 
 
 
-<div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://www.technotarek.com/timeliner/"><span property="dct:title">Timeliner</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://www.technotarek.com/timeliner/www.technotarek.com/timeliner/">Tarek Anandan</a>) / <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></div>
+<div style="font-size: 12px; text-align: center;" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://www.technotarek.com/timeliner/">Built using <span property="dct:title">Timeliner</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://www.technotarek.com/timeliner/www.technotarek.com/timeliner/">Tarek Anandan</a>) / <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></div>
 
 
 
