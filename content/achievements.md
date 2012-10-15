@@ -44,7 +44,7 @@ title: Achievements
     <h2 class="timelineMajorMarker"><span>2011</span></h2>
     <dl class="timelineMinor">
 
-      <dt id="event10"><a>RoboCup Junior World Championship Singapore</a></dt>
+      <dt id="event10"><a>RoboCup Junior World Championship Istanbul</a></dt>
       <dd class="timelineEvent" id="event10EX" style="display: none; ">
         <div><ul>
              <li>Soccer Lightweight secondary - 14th prize</li>
@@ -82,7 +82,7 @@ title: Achievements
     <h2 class="timelineMajorMarker"><span>2010</span></h2>
     <dl class="timelineMinor">
 
-      <dt id="event07"><a>RoboCup Junior World Championship Istanbul</a></dt>
+      <dt id="event07"><a>RoboCup Junior World Championship Singapore</a></dt>
       <dd class="timelineEvent" id="event07EX" style="display: none; ">
         <div><ul>
              <li>Soccer B - results not published</li>
