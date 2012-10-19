@@ -103,9 +103,10 @@ The force is strong with this one. Maybe that's why they call him D'urikonX.
 <div class="about" markdown="1">
 
 #### Marek "mrShu" Šuppa  {#mrshu}
-*the lead developer*
+*master of development* 
 
-What does it mean to be the lead developer in a robotic team? 
+What does it mean to be the master of development (meaning the lead developer) 
+in a robotic team? 
 
 Well, different 
 things every day. It can mean doing an extensive research in computer vision and
