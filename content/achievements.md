@@ -4,6 +4,11 @@ title: Achievements
 
 # Achievements
 
+Very soon after we first started doing something with robots we went to our
+first competition. And we haven't stopped since then.
+
+Here are some of them:
+
 <script src="/js/timeliner.js"></script>
 <link rel="stylesheet" href="/css/timeliner.css"/>
 

@@ -330,6 +330,10 @@ footer {
   text-align: center;
 }
 
+#social a {
+  padding: 0 1em 0 0 !important;
+}
+
 /*social buttons adapted from http://zocial.smcllns.com/sample.html#*/
 
 @font-face {
