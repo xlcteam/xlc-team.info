@@ -15,7 +15,7 @@ also show you some. And here they are:
 - <a href="soccer/index.html#sgs">SGs</a>
 - <a href="soccer/index.html#kozapp">Koza++</a>
 
-### [Dance](dance)
+### [Dance](dance/)
 
 - <a href="dance/index.html#eliska">Eliska</a>
 - <a href="dance/index.html#jozko">Jozko</a>
