@@ -1,11 +1,10 @@
 ---
-title: About
+title: O nás
 ---
 
 # About Us
 
-We are a group of young people interested in programming, electronics, robots
-and other similar things. 
+Sme skupina ľudí, zaoberáme sa programovaním a elektronykou robotov.
 
 
 <div class="center_photo" markdown="1">
