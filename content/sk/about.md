@@ -50,7 +50,7 @@ first and everything else then.
 <div class="about" markdown="1">
 
 #### Jakub "XalaH" Krošlák   {#xalah}
-*Pán elektronyky*
+*Pán elektroniky*
 
 Robots (as well as computers) have two basic parts. The robot itself (hardware
 and electronics) and his intelligence (software). But even if you had the best
