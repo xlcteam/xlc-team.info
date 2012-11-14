@@ -2,7 +2,7 @@
 title: O nás
 ---
 
-# About Us
+# O nás
 
 Sme skupina ľudí, zaoberáme sa programovaním a elektronykou robotov.
 
@@ -26,7 +26,7 @@ The Team
 <div class="about" markdown="1">
 
 #### Rastislav Gaži  {#gazi}
-*the leader* 
+*lider* 
 
 Mr. Gaži is the driving force behind the XLC Team. His energy, passion and
 vision are visible in everything we created. As a team leader he makes sure we
@@ -50,7 +50,7 @@ first and everything else then.
 <div class="about" markdown="1">
 
 #### Jakub "XalaH" Krošlák   {#xalah}
-*master of electronics*
+*Pán elektronyky*
 
 Robots (as well as computers) have two basic parts. The robot itself (hardware
 and electronics) and his intelligence (software). But even if you had the best
@@ -102,7 +102,7 @@ The force is strong with this one. Maybe that's why they call him D'urikonX.
 <div class="about" markdown="1">
 
 #### Marek "mrShu" Šuppa  {#mrshu}
-*master of development* 
+*Pán vývoju* 
 
 What does it mean to be the master of development (meaning the lead developer) 
 in a robotic team? 
@@ -129,8 +129,8 @@ doing some boring stuff like this website.
 <div class="about" markdown="1">
 
 #### Adrián "Adman" Matejov   {#adman}
-*master of the {flash, todolist, video, cable, music, photo, anything you need
-to get done...}*
+*Pán {flash, todolist, video, káble, hudba, fotografie, všetko, čo potrebujete
+urobí...}*
 
 A good team needs to be adaptable. Or there just has to be someone who is able
 to fill the holes when they appear. 
@@ -155,7 +155,7 @@ some decent quality Python code.
 <div class="about" markdown="1">
 
 #### Martin "MaTo" Faltus   {#mato}
-*master of screwing*
+*Pán konštrukcie*
 
 Have you heard about the Phantom of the Opera? 
 
@@ -209,7 +209,7 @@ Padawan leader!
 <div class="about" markdown="1">
 
 #### Dávid "Kegare" Fusan  {#shipuden}
-*drunken master of wisdom*
+*ožraty majster výzie*
 
 Many tried to gain wisdom. Some studied books, others were learning as
 apprentices of great masters, others just used some other way to get it.
@@ -223,7 +223,7 @@ But that's not important. What is important are his quotations:
 - Let's assume you are right, even thought we all know that what you are saying
   is true
 
-- Get lost from my vision!
+- Vypadni z mojej vízie!
 
 </div>
 
@@ -241,7 +241,7 @@ But that's not important. What is important are his quotations:
 <div class="about" markdown="1">
 
 #### Mário "draper" Kačina {#draper}
-*master of bikes*
+*majster cyklistiky*
 
 From the day one Mário managed to just fit into our existing team in a way no
 other member even could. He was (and is) so excited that infect everyone and
@@ -267,7 +267,7 @@ get your crazy ideas come true.
 
 <div class="about" markdown="1">
 #### Marek "monk" Tebeľák {#marek}
-*master of quicak*
+*majster quicaku*
 
 The title says it all. 
 
