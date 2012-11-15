@@ -50,7 +50,7 @@ first and everything else then.
 <div class="about" markdown="1">
 
 #### Jakub "XalaH" Krošlák   {#xalah}
-*Pán elektroniky*
+*pán elektroniky*
 
 Robots (as well as computers) have two basic parts. The robot itself (hardware
 and electronics) and his intelligence (software). But even if you had the best
@@ -102,7 +102,7 @@ The force is strong with this one. Maybe that's why they call him D'urikonX.
 <div class="about" markdown="1">
 
 #### Marek "mrShu" Šuppa  {#mrshu}
-*Pán vývoju* 
+*pán vývoju* 
 
 What does it mean to be the master of development (meaning the lead developer) 
 in a robotic team? 
@@ -155,7 +155,7 @@ some decent quality Python code.
 <div class="about" markdown="1">
 
 #### Martin "MaTo" Faltus   {#mato}
-*Pán konštrukcie*
+*pán konštrukcie*
 
 Have you heard about the Phantom of the Opera? 
 
@@ -209,7 +209,7 @@ Padawan leader!
 <div class="about" markdown="1">
 
 #### Dávid "Kegare" Fusan  {#shipuden}
-*ožraty majster výzie*
+*ožraty pán mysle*
 
 Many tried to gain wisdom. Some studied books, others were learning as
 apprentices of great masters, others just used some other way to get it.
@@ -241,7 +241,7 @@ But that's not important. What is important are his quotations:
 <div class="about" markdown="1">
 
 #### Mário "draper" Kačina {#draper}
-*majster cyklistiky*
+*pán cyklistiky*
 
 From the day one Mário managed to just fit into our existing team in a way no
 other member even could. He was (and is) so excited that infect everyone and
@@ -267,7 +267,7 @@ get your crazy ideas come true.
 
 <div class="about" markdown="1">
 #### Marek "monk" Tebeľák {#marek}
-*majster quicaku*
+*pán quicaku*
 
 The title says it all. 
 
