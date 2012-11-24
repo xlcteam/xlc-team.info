@@ -1,4 +1,6 @@
 xlc-team.info
 =============
 
-XLC Team webpage
+XLC Team webpage - slovak translation
+
+Slovenský preklad webu XLC Team
