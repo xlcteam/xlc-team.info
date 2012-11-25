@@ -4,7 +4,7 @@ title: O nás
 
 # O nás
 
-Sme skupina ľudí, zaoberáme sa programovaním a elektronykou robotov.
+Sme skupina mladých ľudí, ktorých zaujíma programovanie, elektronika, roboty a kopa iných podobných vecí.
 
 
 <div class="center_photo" markdown="1">
