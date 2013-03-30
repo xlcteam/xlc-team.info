@@ -12,10 +12,13 @@ generate:
 	git add .
 	git commit -am "built $(shell cat .git/refs/heads/source)"
 		
-
+	git checkout source
 clean:
 	rm -rf output/
 	rm -rf tmp/
+
+upload:
+	rsync --exclude '.git/*' -r ./output/ root@shu.io:/var/www/xlc-team.info/html''
 
 show:
 	nanoc
