@@ -18,7 +18,9 @@ clean:
 	rm -rf tmp/
 
 upload:
-	rsync --exclude '.git/*' -r ./output/ root@shu.io:/var/www/xlc-team.info/html''
+	git checkout master
+	rsync --exclude '.git/*' -r . root@direct.shu.io:/var/www/xlc-team.info/html''
+	git checkout source
 
 show:
 	nanoc
