@@ -1,8 +1,8 @@
 ---
-title: Soccer robots
+title: Dance robots
 ---
 
-# Soccer robots
+# Dance robots
 <!-- new robot -->
 <div class="photo" markdown="1" id="eliska">
 
