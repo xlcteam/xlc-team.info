@@ -14,6 +14,25 @@ Here are some of them:
 
 <div id="timelineContainer">
 
+  <!-- year 2013 -->
+  <div class="timelineMajor">
+    <h2 class="timelineMajorMarker"><span>2013</span></h2>
+    <dl class="timelineMinor">
+
+      <dt id="event12"><a>RoboCup Junior Slovak Open</a></dt>
+      <dd class="timelineEvent" id="event13EX" style="display: none; ">
+        <div><ul>
+             <li>Soccer B secondary - 1st, 2nd & 3rd prize</li>
+             <li>Dance secondary - 2nd prize</li>
+           </ul>
+        </div>
+        <br class="clear">
+      </dd>
+    </dl>
+  </div>
+
+  <!-- //year 2012 -->
+
   <!-- year 2012 -->
   <div class="timelineMajor">
     <h2 class="timelineMajorMarker"><span>2012</span></h2>
