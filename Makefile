@@ -6,7 +6,7 @@ BROWSER := chromium
 generate:
 	nanoc
 	mv output/* $(TMPDIR)
-	rm tmp/*
+	rm -rf tmp/*
 	git checkout master
 	cp -R $(TMPDIR)/* .
 	git add .
