@@ -19,7 +19,7 @@ Here are some of them:
     <h2 class="timelineMajorMarker"><span>2013</span></h2>
     <dl class="timelineMinor">
 
-      <dt id="event12"><a>RoboCup Junior Slovak Open</a></dt>
+      <dt id="event13"><a>RoboCup Junior Slovak Open</a></dt>
       <dd class="timelineEvent" id="event13EX" style="display: none; ">
         <div><ul>
              <li>Soccer B secondary - 1st, 2nd & 3rd prize</li>
