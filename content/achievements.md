@@ -1,8 +1,8 @@
 ---
-title: Achievements
+title: Úslechy
 ---
 
-# Achievements
+# Úslechy
 
 Veľmi skoro po tom, čo sme začali niečo robiť s robotmi sme šli na našu prvú súťaž.
 A od tej doby sa pravidelne zúčastnujeme súťaží.
