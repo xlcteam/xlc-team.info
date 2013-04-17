@@ -1,12 +1,11 @@
 ---
-title: Úslechy
+title: Úspechy
 ---
 
-# Úslechy
+# Úspechy
 
-Veľmi skoro po tom, čo sme začali niečo robiť s robotmi sme šli na našu prvú súťaž.
-A od tej doby sa pravidelne zúčastnujeme súťaží.
-
+Veľmi skoro po tom, čo sme začali konštruovať a programovať robotov sme sa zúčastnili prvej sútaže.
+A od tej doby sa pravideľne zúčastňujeme rôznych súťaží týkajucich sa tejto problematike.
 Tu su niektoré z nich:
 
 <script src="/js/timeliner.js"></script>
