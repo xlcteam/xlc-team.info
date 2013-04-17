@@ -4,10 +4,10 @@ title: Achievements
 
 # Achievements
 
-Very soon after we first started doing something with robots we went to our
-first competition. And we haven't stopped since then.
+Veľmi skoro po tom, čo sme začali niečo robiť s robotmi sme šli na našu prvú súťaž.
+A od tej doby sa pravidelne zúčastnujeme súťaží.
 
-Here are some of them:
+Tu su niektoré z nich:
 
 <script src="/js/timeliner.js"></script>
 <link rel="stylesheet" href="/css/timeliner.css"/>
