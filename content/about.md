@@ -5,7 +5,7 @@ title: About
 # About Us
 
 We are a group of young people interested in programming, electronics, robots
-and other similar things. 
+and other similar things.
 
 
 <div class="center_photo" markdown="1">
@@ -17,7 +17,7 @@ and other similar things.
 The Team
 --------
 
-<!-- Gazi --> 
+<!-- Gazi -->
 <div class="photo" markdown="1">
 
 ![Gazi](/img/avatars/gazi.png)
@@ -27,19 +27,19 @@ The Team
 <div class="about" markdown="1">
 
 #### Rastislav Gaži  {#gazi}
-*the leader* 
+*the leader*
 
 Mr. Gaži is the driving force behind the XLC Team. His energy, passion and
 vision are visible in everything we created. As a team leader he makes sure we
-have everything we need for our work. 
+have everything we need for our work.
 
-Apart from that, he makes sure we never forget that what we do should be fun 
+Apart from that, he makes sure we never forget that what we do should be fun
 first and everything else then.
 
 </div>
 
 <div class='clear'></div>
-<!-- /Gazi  --> 
+<!-- /Gazi  -->
 
 <!-- Jakub -->
 <div class="photo" markdown="1">
@@ -56,7 +56,7 @@ first and everything else then.
 Robots (as well as computers) have two basic parts. The robot itself (hardware
 and electronics) and his intelligence (software). But even if you had the best
 intelligence in the whole universe, without the robot itself it's not very
-useful. 
+useful.
 
 Fortunately we've got Jakub in our team who makes sure that there are robots we
 can run our logic on. Despite being relatively young he already deserves the
@@ -65,9 +65,9 @@ title master.
 </div>
 
 <div class='clear'></div>
-<!-- /Jakub --> 
+<!-- /Jakub -->
 
-<!-- durikon --> 
+<!-- durikon -->
 <div class="photo" markdown="1">
 
 ![Durikon](/img/avatars/durikon.png)
@@ -82,7 +82,7 @@ title master.
 The force is all around us. We can't touch it, we can't see it, we can just
 feel it. And we can say the same about Johnny. He doesn't show up much in our
 small lab (and so you can't see or touch him) but you can feel him in nearly
-everything we created. 
+everything we created.
 
 He's got some great ideas, even though this world is not always ready for them.
 
@@ -91,7 +91,7 @@ The force is strong with this one. Maybe that's why they call him D'urikonX.
 </div>
 
 <div class='clear'></div>
-<!-- /durikon --> 
+<!-- /durikon -->
 
 <!-- mrshu -->
 <div class="photo" markdown="1">
@@ -103,24 +103,24 @@ The force is strong with this one. Maybe that's why they call him D'urikonX.
 <div class="about" markdown="1">
 
 #### Marek "mrShu" Šuppa  {#mrshu}
-*master of development* 
+*master of development*
 
-What does it mean to be the master of development (meaning the lead developer) 
-in a robotic team? 
+What does it mean to be the master of development (meaning the lead developer)
+in a robotic team?
 
-Well, different 
+Well, different
 things every day. It can mean doing an extensive research in computer vision and
 machine learning, teaching others, writing papers (or even books), giving
-talks, writing beautiful code, negotiating with people from the other side of 
+talks, writing beautiful code, negotiating with people from the other side of
 the world but also being responsible for everyone else, taking out the trash or
 doing some boring stuff like this website.
 
 </div>
 
 <div class='clear'></div>
-<!-- /mrshu --> 
+<!-- /mrshu -->
 
-<!-- ado --> 
+<!-- ado -->
 <div class="photo" markdown="1">
 
 ![Ado](/img/avatars/ado.png)
@@ -134,10 +134,10 @@ doing some boring stuff like this website.
 to get done...}*
 
 A good team needs to be adaptable. Or there just has to be someone who is able
-to fill the holes when they appear. 
+to fill the holes when they appear.
 
 Thankfully we have someone who does precisely that. His name is Adrián (he is
-also known as adman or один) and is a man of many jobs. As you can see in above
+also known as adman or один) and is a man of many jobs. As you can see above
 he does pretty much everything but we should not forget that he also produces
 some decent quality Python code.
 
@@ -158,11 +158,11 @@ some decent quality Python code.
 #### Martin "MaTo" Faltus   {#mato}
 *master of screwing*
 
-Have you heard about the Phantom of the Opera? 
+Have you heard about the Phantom of the Opera?
 
 Well, Martin is a lot like him.
 We never know where he is but if he appears he's got a handful of solutions
-to any problem. If you want to fix some broken electronics, 
+to any problem. If you want to fix some broken electronics,
 rewrite some software or solve a global crisis you should definitely contact him.
 
 </div>
@@ -186,9 +186,9 @@ rewrite some software or solve a global crisis you should definitely contact him
 #### Michaela Gažiová  {#miska}
 *the lead padawan*
 
-Even though you might not believe this we also have a girl in our team! 
+Even though you might not believe this we also have a girl in our team!
 
-And guess what? She does some real programming! 
+And guess what? She does some real programming!
 
 Moreover, she's able to learn new things very quickly. That's why she's the
 Padawan leader!
@@ -245,11 +245,11 @@ But that's not important. What is important are his quotations:
 *master of bikes*
 
 From the day one Mário managed to just fit into our existing team in a way no
-other member even could. He was (and is) so excited that infect everyone and
-made us even more excited then we were (and we were **really** excited). 
+other member even could. He was (and is) so excited that he infected everyone and
+made us even more excited than we were (and we were **really** excited).
 
 He's also a live proof that once you are interested you do whatever it takes to
-get your crazy ideas come true. 
+get your crazy ideas come true.
 
 
 
@@ -270,7 +270,7 @@ get your crazy ideas come true.
 #### Marek "monk" Tebeľák {#marek}
 *master of quicak*
 
-The title says it all. 
+The title says it all.
 
 </div>
 <div class='clear'></div>
@@ -283,15 +283,15 @@ The Name {#name}
 There is a nice story about our name. In our first years we were proudly using
 the pseudo-crypthographic name `0x584c43`. It's the hex representation of the
 string `XLC`. And how did we came up with that? Well, we were always fans of
-doing things simply. Sometimes extremely simply. And so we thought that is 
-might be a good idea to express this in our name too. 
+doing things simply. Sometimes extremely simply. And so we thought that is
+might be a good idea to express this in our name too.
 
 We had a little discussion and came up with the name `XLC` which can be
-an abbreviation of 
+an abbreviation of
 
 *e**X**tremely **L**ite **C**onstruction* or
 
-*e**X**tremely **L**ite **C**ode* 
+*e**X**tremely **L**ite **C**ode*
 
 which shows the two crucial parts of every robot: hardware and software.
 
