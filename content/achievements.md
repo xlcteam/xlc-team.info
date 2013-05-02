@@ -1,13 +1,12 @@
 ---
-title: Achievements
+title: Úspechy
 ---
 
-# Achievements
+# Úspechy
 
-Very soon after we first started doing something with robots we went to our
-first competition. And we haven't stopped since then.
-
-Here are some of them:
+Veľmi skoro po tom, čo sme začali konštruovať a programovať robotov sme sa zúčastnili prvej sútaže.
+A od tej doby sa pravideľne zúčastňujeme rôznych súťaží týkajucich sa tejto problematike.
+Tu su niektoré z nich:
 
 <script src="/js/timeliner.js"></script>
 <link rel="stylesheet" href="/css/timeliner.css"/>
