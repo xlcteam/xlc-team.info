@@ -34,7 +34,7 @@ Tu su niektoré z nich:
         <div><ul>
              <li>Racing - 2nd prize</li>
              <li>Own model - 1st prize</li>
-             <li>Awarded for robot design</li>
+             <li>Ocenení za dizajn robota</li>
            </ul>
         </div>
         <br class="clear">
