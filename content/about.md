@@ -4,9 +4,7 @@ title: About
 
 # About Us
 
-We are a group of young people interested in programming, electronics, robots
-and other similar things. 
-
+Sme skupina ľudí zaoberajúca sa programovaním, elektronikou a robotikou.
 
 <div class="center_photo" markdown="1">
 
@@ -29,12 +27,12 @@ The Team
 #### Rastislav Gaži  {#gazi}
 *the leader* 
 
-Mr. Gaži is the driving force behind the XLC Team. His energy, passion and
-vision are visible in everything we created. As a team leader he makes sure we
-have everything we need for our work. 
+Pán Gaži je pohonnou jednotkou stojacou za XLC týmom. Jeho energiu, vášeň a
+víziu vidieť v o všetkom čo sme vyrobili. Ako líder týmu zaisťuje všetko, čo
+pre prácu potrebujeme.
 
-Apart from that, he makes sure we never forget that what we do should be fun 
-first and everything else then.
+Mimo to dáva pozor aby sme nezabudli na to že by sme to mali robiť predovšetkým
+pre zábavu a ostatné klásť až na druhé miesto.
 
 </div>
 
@@ -53,14 +51,12 @@ first and everything else then.
 #### Jakub "XalaH" Krošlák   {#xalah}
 *master of electronics*
 
-Robots (as well as computers) have two basic parts. The robot itself (hardware
-and electronics) and his intelligence (software). But even if you had the best
-intelligence in the whole universe, without the robot itself it's not very
-useful. 
+Roboti (Rovnako ako počítače) majú dve časti. Robot sám (hardware a alektronika)
+a jeho inteligenciu (software). Ak však máte aj tú najlepšiu inteligenciu vo 
+vesmíre, bez robota nieje veľmi použiteľná. 
 
-Fortunately we've got Jakub in our team who makes sure that there are robots we
-can run our logic on. Despite being relatively young he already deserves the
-title master.
+Našťastie máme v týme Jakuba, ktorý robí všetko pre to aby sme mali roboty,
+ktorých môžeme používať. Napriek tomu, že je mladý, právom mu náleží titul majster.
 
 </div>
 
