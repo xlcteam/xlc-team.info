@@ -75,14 +75,10 @@ ktorých môžeme používať. Napriek tomu, že je mladý, právom mu náleží
 #### Ján "D'urikonX" Ďurkáč {#durikonix}
 *master of the force*
 
-The force is all around us. We can't touch it, we can't see it, we can just
-feel it. And we can say the same about Johnny. He doesn't show up much in our
-small lab (and so you can't see or touch him) but you can feel him in nearly
-everything we created. 
+V našej malej dielni sa neukáže príliš často, ale jeho prácu cítiť vo všetkom,
+čo sme vyrobili. Má úžasné nápady, aj keď tento svet na ne občas nie je pripravený.
 
-He's got some great ideas, even though this world is not always ready for them.
-
-The force is strong with this one. Maybe that's why they call him D'urikonX.
+Naša sila je s ním väčšia. Možno preto ho volajú ĎurikonX.
 
 </div>
 
