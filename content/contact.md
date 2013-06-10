@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: Kontakt
 ---
 
-# Contact
+# Kontakt
 
 Discussing everthing is one of our core values. We really like it. And we also
 like to talk with people about pretty much everything. 
@@ -17,9 +17,8 @@ and tweet us on [Twitter](http://twitter.com/XLCTeam), like us on
 ## Members
 ----------
 
-If you for some reason want to contact any of us directly this is probably what
-you are looking for:
-
+Ak by ste z nejakého dôvodu chceli kontaktovať priamo niekoho z nás, toto je pravdepodobne to,
+čo hľadáte:
 
 - Ing. Rastislav Gaži - <a href="mailto:gazi@xlc-team.info">gazi@xlc-team.info</a>
 - Marek Šuppa - <a href="mailto:marek@xlc-team.info">marek@xlc-team.info</a>
