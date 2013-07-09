@@ -12,7 +12,8 @@ So if you have something to say just write us an
 [IRC](http://webchat.freenode.net/?channels=xlcteam), follow
 and tweet us on [Twitter](http://twitter.com/XLCTeam), like us on 
 [Facebook](http://facebook.com/xlc.team), check out our code at 
-[GitHub](http://github.com/xlcteam) or come in personally. We like visitors.
+[GitHub](http://github.com/xlcteam), watch our videos at [Vimeo](http://vimeo.com/xlcteam)
+or come in personally. We like visitors.
 
 ## Members
 ----------
