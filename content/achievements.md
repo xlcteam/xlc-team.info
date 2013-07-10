@@ -19,8 +19,8 @@ Here are some of them:
     <h2 class="timelineMajorMarker"><span>2013</span></h2>
     <dl class="timelineMinor">
     
-      <dt id="event15"><a>RoboCup Junior World Championship Eindhoven</a></dt>
-      <dd class="timelineEvent" id="event15EX" style="display: none; ">
+      <dt id="event16"><a>RoboCup Junior World Championship Eindhoven</a></dt>
+      <dd class="timelineEvent" id="event16EX" style="display: none; ">
         <div><ul>
              <li>Soccer Lightweight secondary - 3rd place in group</li>
              <li>Soccer Open League - 6th place in group</li>
@@ -29,11 +29,20 @@ Here are some of them:
         <br class="clear"/>
       </dd>
     
-      <dt id="event14"><a>Robotic Battle Kosice</a></dt>
-      <dd class="timelineEvent" id="event14EX" style="display: none; ">
+      <dt id="event15"><a>Robotic Battle Kosice</a></dt>
+      <dd class="timelineEvent" id="event15EX" style="display: none; ">
         <div><ul>
              <li>Racing - 1st prize</li>
              <li>Own model - 2nd prize</li>
+           </ul>
+        </div>
+        <br class="clear">
+      </dd>
+
+      <dt id="event14"><a>Trencin Robotic Day</a></dt>
+      <dd class="timelineEvent" id="event14EX" style="display: none; ">
+        <div><ul>
+             <li>Freestyle - 2nd place</li>
            </ul>
         </div>
         <br class="clear">
