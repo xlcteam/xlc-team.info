@@ -23,7 +23,9 @@ Here are some of them:
       <dd class="timelineEvent" id="event16EX" style="display: none; ">
         <div><ul>
              <li>Soccer Lightweight secondary - 3rd place in group</li>
-             <li>Soccer Open League - 6th place in group</li>
+             <li>Soccer Lightweight secondary SuperTeams - 3rd place in group</li>
+             <li>Soccer Open League - 4th place in group</li>
+             <li>Soccer Open League SuperTeams - 4th place in group</li>
            </ul>
         </div>
         <br class="clear"/>
