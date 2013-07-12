@@ -326,6 +326,19 @@ footer {
   clear: both;
 }
 
+#content #sponsors_scroller {
+	height: 200px;
+	overflow: hidden;
+	border: 0px solid black;
+	padding: 0px;
+	clear:both;
+}
+
+#content .sponsors_scroller img {
+    height: 200px;
+    overflow: hidden;
+}
+
 #social {
   text-align: center;
 }
