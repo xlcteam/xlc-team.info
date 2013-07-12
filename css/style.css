@@ -326,6 +326,19 @@ footer {
   clear: both;
 }
 
+#content #sponsors_scroller {
+	height: 200px;
+	overflow: hidden;
+	border: 0px solid black;
+	padding: 0px;
+	clear:both;
+}
+
+#content .sponsors_scroller img {
+    height: 200px;
+    overflow: hidden;
+}
+
 #social {
   text-align: center;
 }
@@ -450,6 +463,10 @@ footer {
 /*facebook*/
 .social.facebook:before { content: "f"; }
 .social.facebook { background-color: #4863AE !important; }
+
+/*vimeo*/
+.social.vimeo:before { content: "V"; }
+.social.vimeo { background-color: #00A2CD !important; } 
 
 /*github*/
 .social.github:active {
