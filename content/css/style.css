@@ -326,6 +326,10 @@ footer {
   clear: both;
 }
 
+#content #sponsors_top {
+    text-align: center;
+}
+
 #content #sponsors_scroller {
 	height: 200px;
 	overflow: hidden;
@@ -335,7 +339,8 @@ footer {
 }
 
 #content .sponsors_scroller img {
-    height: 200px;
+    /*height: 200px;*/
+    padding: 15px !important;
     overflow: hidden;
 }
 
