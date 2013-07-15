@@ -1,4 +1,4 @@
----
+w---
 title: Sponsors 
 ---
 
@@ -32,6 +32,8 @@ There is only one thing we want to tell them.
     <img src="/img/sponsors/wittexplus.JPG" alt="WITTEX PLUS"></img>
     <img src="/img/sponsors/dehnsohne.png" alt="DEHN + SOHNE"></img>
     <img src="/img/sponsors/segafredo.png" alt="Segafredo Topoľčany"></img>
+    <img src="/img/sponsors/dominanz.png" alt="Dominanz"></img>
+    <img src="/img/sponsors/topgame.png" alt="TopGame"></img>
 </div>
 
 <script src="/js/libs/imageScroller.js"></script>
