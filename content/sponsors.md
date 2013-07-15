@@ -23,7 +23,6 @@ There is only one thing we want to tell them.
     <img src="/img/sponsors/zavodsky.jpg" alt="Distribúcia Závodský"></img>
     <img src="/img/sponsors/mydva.jpg" alt="My Dva Group"></img>
     <img src="/img/sponsors/dmpsteel.JPG" alt="D.M.P. STEEL"></img>
-    <img src="/img/sponsors/bytmat.jpg" alt="KR-BYTMAT s.r.o"></img>
     <img src="/img/sponsors/faxcopy.jpg" alt="FaxCOPY"></img>
     <img src="/img/sponsors/marci.jpg" alt="Marci"></img>
     <img src="/img/sponsors/mbnvercajch.jpg" alt="MBN vercajch"></img>
@@ -31,9 +30,8 @@ There is only one thing we want to tell them.
     <img src="/img/sponsors/storex.png" alt="STOREX"></img>
     <img src="/img/sponsors/toptrans.png" alt="TopTrans"></img>
     <img src="/img/sponsors/wittexplus.JPG" alt="WITTEX PLUS"></img>
-    <!--img src="/img/sponsors/.jpg" alt=""></img>
-    <img src="/img/sponsors/.jpg" alt=""></img>
-    <img src="/img/sponsors/.jpg" alt=""></img-->
+    <img src="/img/sponsors/dehnsohne.png" alt="DEHN + SOHNE"></img>
+    <img src="/img/sponsors/segafredo.png" alt="Segafredo Topoľčany"></img>
 </div>
 
 <script src="/js/libs/imageScroller.js"></script>
