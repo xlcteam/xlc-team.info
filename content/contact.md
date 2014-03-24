@@ -27,3 +27,4 @@ you are looking for:
 - Adrián Matejov - <a href="mailto:ado@xlc-team.info">ado@xlc-team.info</a>
 - Ján Ďurkáč - <a href="mailto:durikon@xlc-team.info">durikon@xlc-team.info</a>
 - Jakub Krošlák - <a href="mailto:jakub@xlc-team.info">jakub@xlc-team.info</a>
+- Andrej Manduch - <a href="mailto:andrej@xlc-team.info">andrej@xlc-team.info</a>
