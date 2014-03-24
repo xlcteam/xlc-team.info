@@ -35,6 +35,7 @@ There is only one thing we want to tell them.
     <img src="/img/sponsors/dominanz.png" alt="Dominanz"></img>
     <img src="/img/sponsors/topgame.png" alt="TopGame"></img>
     <img src="/img/sponsors/suavinex.png" alt="suavinex"></img>
+    <img src="/img/sponsors/erigones.png" alt="erigones"></img>
 </div>
 
 <script src="/js/libs/imageScroller.js"></script>
