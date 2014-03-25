@@ -18,10 +18,7 @@ clean:
 	rm -rf tmp/
 
 upload:
-	git checkout master
-	rsync --exclude '.git/*' -r . root@direct.shu.io:/var/www/xlc-team.info/html''
-	git checkout source
-
+	ssh xlc-team.info -l xlc-web -i ./deploy_key /home/xlc-web/fetch-new.sh
 show:
 	nanoc
 	cd output; python2 -m SimpleHTTPServer&
