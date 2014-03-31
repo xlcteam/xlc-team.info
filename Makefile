@@ -10,7 +10,7 @@ generate:
 	git checkout master
 	cp -R $(TMPDIR)/* .
 	git add .
-	git commit -am "built $(shell cat .git/refs/heads/source)"		
+	git commit -am "built $(shell cat .git/refs/heads/source)"
 	git checkout source
 
 clean:
