@@ -1,11 +1,11 @@
 ---
-title: Sponsors 
+title: Sponsors
 ---
 
 # Sponsors
 
 If there wasn't for our sponsors there would be no XLC Team an the
-[achievements](/achievements) page would be nearly empty. 
+[achievements](/achievements) page would be nearly empty.
 
 There is only one thing we want to tell them.
 
@@ -15,6 +15,7 @@ There is only one thing we want to tell them.
     <img src="/img/sponsors/topolcany.jpg" alt="Mesto Topoľčany"></img>
     <img src="/img/sponsors/tribecska.png" alt="Základná škola Tribečská"></img>
     <img src="/img/sponsors/sam.png" alt="SAM - Shipbuilding and Machinery"></img>
+    <img src="https://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png" style="width: 200px;" alt="GitHub"></img>
 </div>
 
 <div id="sponsors_scroller">
@@ -40,10 +41,10 @@ There is only one thing we want to tell them.
 
 <script src="/js/libs/imageScroller.js"></script>
 <script>
-    $(document).ready(function(){ 
+    $(document).ready(function(){
         $("#sponsors_scroller").imageScroller( {
        	    direction:'left',
-       	    speed:'5000'	
+       	    speed:'5000'
         });
     });
 </script>
