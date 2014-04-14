@@ -130,7 +130,7 @@ doing some boring stuff like this website.
 <div class="about" markdown="1">
 
 #### Adrián "Adman" Matejov   {#adman}
-*master of the {flash, todolist, video, cable, music, photo, anything you need
+*master of the {code, flash, todolist, video, cable, photo, anything you need
 to get done...}*
 
 A good team needs to be adaptable. Or there just has to be someone who is able
