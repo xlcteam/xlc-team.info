@@ -14,6 +14,29 @@ Here are some of them:
 
 <div id="timelineContainer">
 
+  <!-- year 2014 -->
+  <div class="timelineMajor">
+    <h2 class="timelineMajorMarker"><span>2014</span></h2>
+    <dl class="timelineMinor">
+    
+      <dt id="event17"><a>RoboCup Junior Slovak Open</a></dt>
+      <dd class="timelineEvent" id="event17EX" style="display: none; ">
+        <div><ul>
+             <li>Soccer secondary - 1st, 2nd & 3rd prize</li>
+             <li>Soccer primary - 1st prize</li>
+             <li>Rescue A primary - 3rd prize</li>
+             <li>Construction - 1st prize</li>
+           </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+    </dl>
+  </div>
+
+  <!-- //year 2014 -->
+
+
   <!-- year 2013 -->
   <div class="timelineMajor">
     <h2 class="timelineMajorMarker"><span>2013</span></h2>
@@ -123,7 +146,7 @@ Here are some of them:
       <dt id="event08"><a>Trencin Robotic Day</a></dt>
       <dd class="timelineEvent" id="event08EX" style="display: none; ">
         <div><ul>
-             <li>Freestyle - 2nd place</li>
+             <li>Freestyle - 2nd prize</li>
            </ul>
         </div>
         <br class="clear">
