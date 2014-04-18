@@ -139,7 +139,7 @@ to fill the holes when they appear.
 Thankfully we have someone who does precisely that. His name is Adrián (he is
 also known as adman or один) and is a man of many jobs. As you can see above
 he does pretty much everything but we should not forget that he also produces
-some decent quality Python code.
+some decent quality Python and JavaScript code.
 
 </div>
 
@@ -256,7 +256,7 @@ get your crazy ideas come true.
 </div>
 
 <div class='clear'></div>
-<!-- /david -->
+<!-- /mario -->
 
 
 <!-- marekt -->
