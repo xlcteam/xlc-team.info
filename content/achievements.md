@@ -18,7 +18,16 @@ Here are some of them:
   <div class="timelineMajor">
     <h2 class="timelineMajorMarker"><span>2014</span></h2>
     <dl class="timelineMinor">
-    
+
+      <dt id="event18"><a>RoboCup Junior Austrian Open</a></dt>
+      <dd class="timelineEvent" id="event18EX" style="display: none; ">
+        <div><ul>
+             <li>Soccer Open - 3rd prize</li>
+             </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
       <dt id="event17"><a>RoboCup Junior Slovak Open</a></dt>
       <dd class="timelineEvent" id="event17EX" style="display: none; ">
         <div><ul>
@@ -26,7 +35,7 @@ Here are some of them:
              <li>Soccer primary - 1st prize</li>
              <li>Rescue A primary - 3rd prize</li>
              <li>Construction - 1st prize</li>
-           </ul>
+            </ul>
         </div>
         <br class="clear"/>
       </dd>
