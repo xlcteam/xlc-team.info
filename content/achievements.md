@@ -7,7 +7,7 @@ title: Achievements
 Very soon after we first started doing something with robots we went to our
 first competition. And we haven't stopped since then.
 
-Here are some of them:
+These ones were quite successful:
 
 <script src="/js/timeliner.js"></script>
 <link rel="stylesheet" href="/css/timeliner.css"/>
@@ -50,7 +50,7 @@ Here are some of them:
   <div class="timelineMajor">
     <h2 class="timelineMajorMarker"><span>2013</span></h2>
     <dl class="timelineMinor">
-    
+
       <dt id="event16"><a>RoboCup Junior World Championship Eindhoven</a></dt>
       <dd class="timelineEvent" id="event16EX" style="display: none; ">
         <div><ul>
@@ -62,7 +62,7 @@ Here are some of them:
         </div>
         <br class="clear"/>
       </dd>
-    
+
       <dt id="event15"><a>Robotic Battle Kosice</a></dt>
       <dd class="timelineEvent" id="event15EX" style="display: none; ">
         <div><ul>
