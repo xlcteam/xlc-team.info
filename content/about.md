@@ -50,7 +50,7 @@ first and everything else then.
 
 <div class="about" markdown="1">
 
-#### Jakub "XalaH" Krošlák   {#xalah}
+#### Jakub "J.K." Krošlák   {#jk}
 *master of electronics*
 
 Robots (as well as computers) have two basic parts. The robot itself (hardware
