@@ -19,6 +19,15 @@ These ones were quite successful:
     <h2 class="timelineMajorMarker"><span>2014</span></h2>
     <dl class="timelineMinor">
 
+      <dt id="event20"><a>Robotic Battle Kosice</a></dt>
+      <dd class="timelineEvent" id="event20EX" style="display: none; ">
+        <div><ul>
+             <li>Racing - 2nd prize</li>
+             </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
       <dt id="event19"><a>RoboCup Junior Slovenian Open</a></dt>
       <dd class="timelineEvent" id="event19EX" style="display: none; ">
         <div><ul>
