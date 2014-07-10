@@ -266,7 +266,7 @@ get your crazy ideas come true.
 </div>
 
 <div class="about" markdown="1">
-#### Marek "monk" Tebeľák {#marek}
+#### Marek Tebeľák {#marek}
 *master of quicak*
 
 The title says it all.
