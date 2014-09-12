@@ -5,13 +5,13 @@ title: Contact
 # Contact
 
 Discussing everthing is one of our core values. We really like it. And we also
-like to talk with people about pretty much everything. 
+like to talk with people about pretty much everything.
 
 So if you have something to say just write us an
-[email](mailto:xlc.team@gmail.com), ping us on 
-[IRC](http://webchat.freenode.net/?channels=xlcteam), follow
-and tweet us on [Twitter](http://twitter.com/XLCTeam), like us on 
-[Facebook](http://facebook.com/xlc.team), check out our code at 
+[email](mailto:xlc.team@gmail.com), ping us on
+[IRC](https://kiwiirc.com/client/irc.freenode.net/#xlcteam), follow
+and tweet us on [Twitter](http://twitter.com/XLCTeam), like us on
+[Facebook](http://facebook.com/xlc.team), check out our code at
 [GitHub](http://github.com/xlcteam), watch our videos at [Vimeo](http://vimeo.com/xlcteam)
 or come in personally. We like visitors.
 
