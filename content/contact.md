@@ -8,7 +8,7 @@ Discussing everthing is one of our core values. We really like it. And we also
 like to talk with people about pretty much everything.
 
 So if you have something to say just write us an
-[email](mailto:xlc.team@gmail.com), ping us on
+[email](mailto:contact@mail.xlc-team.info), ping us on
 [IRC](https://kiwiirc.com/client/irc.freenode.net/#xlcteam), follow
 and tweet us on [Twitter](http://twitter.com/XLCTeam), like us on
 [Facebook](http://facebook.com/xlc.team), check out our code at
@@ -18,8 +18,9 @@ or come in personally. We like visitors.
 ## Members
 ----------
 
-If you for some reason want to contact any of us directly this is probably what
-you are looking for:
+Although the best way of contactin us is via our
+[general contact email](contact@mail.xlc-team.info) you might want to
+contact some of us directly. Here are a few emails.
 
 
 - Ing. Rastislav Gaži - <a href="mailto:gazi@xlc-team.info">gazi@xlc-team.info</a>
