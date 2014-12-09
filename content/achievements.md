@@ -19,6 +19,15 @@ These ones were quite successful:
     <h2 class="timelineMajorMarker"><span>2014</span></h2>
     <dl class="timelineMinor">
 
+      <dt id="event22"><a>Topvedam</a></dt>
+      <dd class="timelineEvent" id="event22EX" style="display: none; ">
+        <div><ul>
+             <li>3rd prize</li>
+             </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
       <dt id="event21"><a>RoboCup Junior World Championship João Pessoa</a></dt>
       <dd class="timelineEvent" id="event21EX" style="display: none; ">
         <div><ul>
@@ -326,7 +335,7 @@ These ones were quite successful:
 - RoboCup Junior Slovak Open - Soccer B secondary - 1st prize
 - RoboCup Junior Slovak Open - Soccer A secondary - 2nd prize
 - RoboCup Junior Slovak Open - Rescue Primary - 3rd prize
-- Trencin Robotic Day - Freestyle - 2nd place.
+- Trencin Robotic Day - Freestyle - 2nd prize.
 
 ## Year 2010
 ------------
