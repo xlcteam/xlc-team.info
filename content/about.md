@@ -261,8 +261,6 @@ get your crazy ideas come true.
 <!-- marekt -->
 <div class="photo" markdown="1">
 
-![MarekT](/img/avatars/marekt.png)
-
 </div>
 
 <div class="about" markdown="1">
