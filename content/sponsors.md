@@ -12,6 +12,7 @@ There is only one thing we want to tell them.
 **Thank you!**
 
 <div id="sponsors_top">
+    <img src="/img/sponsors/erigones_big_as_deserved.png" alt="Erigones"></img>
     <img src="/img/sponsors/topolcany.jpg" alt="Mesto Topoľčany"></img>
     <img src="/img/sponsors/tribecska.png" alt="Základná škola Tribečská"></img>
     <img src="/img/sponsors/sam.png" alt="SAM - Shipbuilding and Machinery"></img>
