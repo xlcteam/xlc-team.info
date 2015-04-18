@@ -25,7 +25,7 @@ These ones were quite successful:
              <li>Soccer Open - 1st, 2nd & 3rd prize</li>
              <li>Soccer Lightweight secondary - 1st prize</li>
              <li>Soccer Lightweight primary - 1st prize</li>
-             <li>Robotic hand - 1st prize</li>
+             <li>Robotic arm - 1st prize</li>
              <li><strong>*</strong>Special award for lifelong contributions to the Slovak robotic soccer competiton<strong>*</strong></li>
             </ul>
         </div>
