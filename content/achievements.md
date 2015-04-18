@@ -14,6 +14,27 @@ These ones were quite successful:
 
 <div id="timelineContainer">
 
+  <!-- year 2015 -->
+  <div class="timelineMajor">
+    <h2 class="timelineMajorMarker"><span>2015</span></h2>
+    <dl class="timelineMinor">
+
+      <dt id="event23"><a>RoboCup Junior Slovak Open</a></dt>
+      <dd class="timelineEvent" id="event23EX" style="display: none; ">
+        <div><ul>
+             <li>Soccer Open - 1st, 2nd & 3rd prize</li>
+             <li>Soccer Lightweight secondary - 1st prize</li>
+             <li>Soccer Lightweight primary - 1st prize</li>
+             <li>Robotic hand - 1st prize</li>
+             <li><strong>*</strong>Special award for lifelong contributions to the Slovak robotic soccer competiton<strong>*</strong></li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+    </dl>
+  </div>
+
   <!-- year 2014 -->
   <div class="timelineMajor">
     <h2 class="timelineMajorMarker"><span>2014</span></h2>
