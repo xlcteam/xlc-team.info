@@ -1,0 +1,188 @@
+Crashlog created at Tue Mar 25 22:50:29 +0100 2014
+
+===== MESSAGE:
+
+LoadError: no such file to load -- kramdown
+Install the 'kramdown' gem using `gem install kramdown`.
+
+===== COMPILATION STACK:
+
+  - [item]   /about/ (rep default)
+
+===== STACK TRACE:
+
+  0. /usr/lib/ruby/vendor_ruby/1.8/rubygems/custom_require.rb:36:in `gem_original_require'
+  1. /usr/lib/ruby/vendor_ruby/1.8/rubygems/custom_require.rb:36:in `require'
+  2. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/compilation/filter.rb:100:in `setup'
+  3. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/compilation/filter.rb:100:in `each'
+  4. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/compilation/filter.rb:100:in `setup'
+  5. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/compilation/filter.rb:121:in `setup_and_run'
+  6. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/result_data/item_rep.rb:344:in `filter'
+  7. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/compilation/item_rep_proxy.rb:47:in `filter'
+  8. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/compilation/rule_context.rb:61:in `filter'
+  9. ./Rules:48:in `load'
+  10. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/compilation/rule.rb:70:in `instance_eval'
+  11. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/compilation/rule.rb:70:in `apply_to'
+  12. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/compilation/compiler.rb:384:in `compile_rep'
+  13. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/compilation/compiler.rb:340:in `compile_reps'
+  14. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/compilation/compiler.rb:333:in `loop'
+  15. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/compilation/compiler.rb:333:in `compile_reps'
+  16. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/compilation/compiler.rb:89:in `run'
+  17. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/base/source_data/site.rb:58:in `compile'
+  18. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/cli/commands/compile.rb:393:in `run'
+  19. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/cli/commands/compile.rb:434:in `run_listeners_while'
+  20. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/cli/commands/compile.rb:392:in `run'
+  21. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/cli/command_runner.rb:14:in `call'
+  22. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/cli/error_handler.rb:70:in `handle_while'
+  23. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
+  24. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/cli/command_runner.rb:13:in `call'
+  25. /var/lib/gems/1.8/gems/cri-2.5.0/lib/cri/command_dsl.rb:185:in `runner'
+  26. /var/lib/gems/1.8/gems/cri-2.5.0/lib/cri/command.rb:298:in `call'
+  27. /var/lib/gems/1.8/gems/cri-2.5.0/lib/cri/command.rb:298:in `run_this'
+  28. /var/lib/gems/1.8/gems/cri-2.5.0/lib/cri/command.rb:251:in `run'
+  29. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/cli/commands/nanoc.rb:39:in `define'
+  30. /var/lib/gems/1.8/gems/cri-2.5.0/lib/cri/command.rb:298:in `call'
+  31. /var/lib/gems/1.8/gems/cri-2.5.0/lib/cri/command.rb:298:in `run_this'
+  32. /var/lib/gems/1.8/gems/cri-2.5.0/lib/cri/command.rb:251:in `run'
+  33. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/cli.rb:59:in `run'
+  34. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/cli/error_handler.rb:70:in `handle_while'
+  35. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/cli/error_handler.rb:26:in `handle_while'
+  36. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib/nanoc/cli.rb:57:in `run'
+  37. /var/lib/gems/1.8/gems/nanoc-3.6.8/bin/nanoc:19
+  38. /usr/local/bin/nanoc:19:in `load'
+
+===== VERSION INFORMATION:
+
+nanoc 3.6.8 © 2007-2013 Denis Defreyne.
+Running ruby 1.8.7 (2011-06-30) on x86_64-linux with RubyGems 1.8.15.
+
+===== SYSTEM INFORMATION:
+
+Linux Silverstar 3.2.0-60-generic #91-Ubuntu SMP Wed Feb 19 03:54:44 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+
+===== INSTALLED GEMS:
+
+  nanoc 3.6.8
+  cri 2.5.0
+  colored 1.2
+
+===== ENVIRONMENT:
+
+COLORFGBG => "15;0"
+COMP_WORDBREAKS => " \t\n\"'><;|&(:"
+DBUS_SESSION_BUS_ADDRESS => "unix:abstract=/tmp/dbus-96H5vr3F49,guid=1ea3c8e25e0148c9b9c98b4c0000008b"
+DEFAULTS_PATH => "/usr/share/gconf/xubuntu.default.path"
+DERBY_HOME => "/usr/lib/jvm/java-8-oracle/db"
+DESKTOP_SESSION => "xubuntu"
+DISPLAY => ":0.0"
+DSSHAGENT => "11155"
+EDITOR => "vim"
+GDMSESSION => "xubuntu"
+GLADE_CATALOG_PATH => ":"
+GLADE_MODULE_PATH => ":"
+GLADE_PIXMAP_PATH => ":"
+GNOME_KEYRING_CONTROL => "/tmp/keyring-B2P4mA"
+GNOME_KEYRING_PID => "3831"
+GPG_AGENT_INFO => "/tmp/keyring-B2P4mA/gpg:0:1"
+HOME => "/home/burlak"
+J2REDIR => "/usr/lib/jvm/java-8-oracle/jre"
+J2SDKDIR => "/usr/lib/jvm/java-8-oracle"
+JAVA_HOME => "/usr/lib/jvm/java-8-oracle"
+KONSOLE_DBUS_SERVICE => ":1.34"
+KONSOLE_DBUS_SESSION => "/Sessions/2"
+LANG => "en_US.UTF-8"
+LANGUAGE => "en"
+LC_ADDRESS => "en_US.UTF-8"
+LC_IDENTIFICATION => "en_US.UTF-8"
+LC_MEASUREMENT => "en_US.UTF-8"
+LC_MONETARY => "en_US.UTF-8"
+LC_NAME => "en_US.UTF-8"
+LC_NUMERIC => "en_US.UTF-8"
+LC_PAPER => "en_US.UTF-8"
+LC_TELEPHONE => "en_US.UTF-8"
+LC_TIME => "en_US.UTF-8"
+LESSCLOSE => "/usr/bin/lesspipe %s %s"
+LESSOPEN => "| /usr/bin/lesspipe %s"
+LIBGLADE_MODULE_PATH => ":"
+LIBGL_DRIVERS_PATH => "/usr/lib/fglrx/dri:/usr/lib32/fglrx/dri"
+LOGNAME => "burlak"
+LS_COLORS => "rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:"
+MAKEFLAGS => ""
+MAKELEVEL => "1"
+MANDATORY_PATH => "/usr/share/gconf/xubuntu.mandatory.path"
+MFLAGS => ""
+OLDPWD => "/etc/apache2"
+PATH => "/home/burlak/perl5/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/share/ruby-rvm/bin"
+PERL5LIB => "/home/burlak/perl5/lib/perl5/x86_64-linux-gnu-thread-multi:/home/burlak/perl5/lib/perl5"
+PERL_LOCAL_LIB_ROOT => "/home/burlak/perl5"
+PERL_MB_OPT => "--install_base /home/burlak/perl5"
+PERL_MM_OPT => "INSTALL_BASE=/home/burlak/perl5"
+PHANTOMJS_EXECUTABLE => "/usr/local/bin/phantomjs"
+PROFILEHOME => ""
+PWD => "/media/comunity/xlc-team.info"
+SESSION_MANAGER => "local/Silverstar:@/tmp/.ICE-unix/3925,unix/Silverstar:/tmp/.ICE-unix/3925"
+SHELL => "/bin/bash"
+SHELL_SESSION_ID => "8a30f44b96734000b86891176a4d5c2b"
+SHLVL => "2"
+SSH_AGENT_PID => "2744"
+SSH_AUTH_SOCK => "/tmp/keyring-B2P4mA/ssh"
+TERM => "screen"
+TMUX => "/tmp/tmux-1000/default,5416,0"
+TMUX_LOG_DATE => "2014-03-25"
+TMUX_LOG_SN => "1395770827"
+TMUX_PANE => "%11"
+USER => "burlak"
+VISUAL => "vim"
+WINDOWID => "56623112"
+XAUTHORITY => "/home/burlak/.Xauthority"
+XDG_CONFIG_DIRS => "/etc/xdg/xdg-xubuntu:/etc/xdg:/etc/xdg"
+XDG_CURRENT_DESKTOP => "XFCE"
+XDG_DATA_DIRS => "/usr/share/xubuntu:/usr/local/share/:/usr/share/:/usr/share"
+XDG_MENU_PREFIX => "xfce-"
+XDG_SEAT_PATH => "/org/freedesktop/DisplayManager/Seat0"
+XDG_SESSION_COOKIE => "d2d9e7d4786d0c3f56b2881c00000008-1395707494.400704-868469913"
+XDG_SESSION_PATH => "/org/freedesktop/DisplayManager/Session0"
+_ => "/usr/bin/make"
+rvm_archives_path => "/usr/share/ruby-rvm/archives"
+rvm_bin_path => "/usr/share/ruby-rvm/bin"
+rvm_config_path => "/usr/share/ruby-rvm/config"
+rvm_docs_path => "/usr/share/ruby-rvm/docs"
+rvm_environments_path => "/usr/share/ruby-rvm/environments"
+rvm_examples_path => "/usr/share/ruby-rvm/examples"
+rvm_gems_cache_path => "/usr/share/ruby-rvm/gems/cache"
+rvm_gems_path => "/usr/share/ruby-rvm/gems"
+rvm_gemsets_path => "/usr/share/ruby-rvm/gemsets"
+rvm_help_path => "/usr/share/ruby-rvm/help"
+rvm_hook => "after_cd"
+rvm_lib_path => "/usr/share/ruby-rvm/lib"
+rvm_loaded_flag => "0"
+rvm_log_path => "/usr/share/ruby-rvm/log"
+rvm_man_path => "/usr/share/ruby-rvm/man"
+rvm_patches_path => "/usr/share/ruby-rvm/patches"
+rvm_path => "/usr/share/ruby-rvm"
+rvm_repos_path => "/usr/share/ruby-rvm/repos"
+rvm_rubies_path => "/usr/share/ruby-rvm/rubies"
+rvm_scripts_path => "/usr/share/ruby-rvm/scripts"
+rvm_src_path => "/usr/share/ruby-rvm/src"
+rvm_tmp_path => "/usr/share/ruby-rvm/tmp"
+rvm_user_install_flag => "0"
+rvm_user_path => "/usr/share/ruby-rvm/user"
+rvm_usr_path => "/usr/share/ruby-rvm/usr"
+rvm_version => "1.6.9"
+rvm_wrappers_path => "/usr/share/ruby-rvm/wrappers"
+
+===== LOAD PATHS:
+
+  0. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib
+  1. /var/lib/gems/1.8/gems/colored-1.2/lib
+  2. /var/lib/gems/1.8/gems/cri-2.5.0/lib
+  3. /var/lib/gems/1.8/gems/nanoc-3.6.8/lib
+  4. /usr/local/lib/site_ruby/1.8
+  5. /usr/local/lib/site_ruby/1.8/x86_64-linux
+  6. /usr/local/lib/site_ruby
+  7. /usr/lib/ruby/vendor_ruby/1.8
+  8. /usr/lib/ruby/vendor_ruby/1.8/x86_64-linux
+  9. /usr/lib/ruby/vendor_ruby
+  10. /usr/lib/ruby/1.8
+  11. /usr/lib/ruby/1.8/x86_64-linux
+  12. .

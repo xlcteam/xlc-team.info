@@ -1,0 +1,1985 @@
+{:	data{BI"/:ET{:default{	:	lastI"˙<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Home - XLC Team</title>
+  <meta name="description" content="">
+
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/jquery.ui.potato.menu.css">
+  <link href='http://fonts.googleapis.com/css?family=Days%20One|Imprima' rel='stylesheet' type='text/css'>
+
+  <script src="/js/libs/modernizr.js"></script>
+</head>
+<body>
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+  <div id="container">
+    <header>
+      <h1> XLC Team </h1>
+      <div id="logo">
+        <img src="/img/logo_head.png" />
+      </div>
+      <p class="motto"> <em> We build robots. Because we can.</em> </p>
+     <div style="clear: both"></div>
+    </header>
+    <div role="main">
+      <div>
+        <nav >
+          <ul id="menu">
+            <li>
+                <a class="selected" title="You're here.">&nbsp<img src="/img/logo_icon.png" />&nbsp</a> 
+            </li>
+            <li> <a href="/about/">About</a> </li>
+            <li> <a href="/achievements/">Achievements</a> </li>
+            <li> <a href="/projects/">Projects</a>
+              <ul>
+                <li> <a href="/projects/robots">Robots</a> </li>
+                <li> <a href="/projects/software">Software</a> </li>
+              </ul>
+            </li>
+            <li> <a href="/sponsors/">Sponsors</a>  </li>
+            <li> <a href="/contact/">Contact</a>  </li>
+          </ul>
+        </nav>
+      </div>
+      <div id="content">
+        <p> <h1>Hi There!</h1> </p>
+<p>We are the XLC Team, a robotic team from Slovakia. </p>
+<p> Most of the time we build robots.<br />
+Some of them <a href="/robots/soccer">play socer</a>. <br />
+Some are trying to act as rescurers. <br />
+Some even <a href="/robots/dance">dance</a>. <br />
+Nearly all of them participate in the 
+<a href="http://robotika.sk/rcj">RoboCup Junior</a> competition.
+  </p>
+<p>We also teach others how to build and program them.</p>
+<p>Apart from that <a href="/projects">we build software</a> which makes it easier 
+    to do what we do.</p>
+<p>We do all of this because we can.<br /> 
+And we can because we are <a href="/about#driven-by-passion">driven by passion</a>. <br /> 
+And supported by our sponsors. </p>
+<p>And we would be really greatful if you could support us. </p>
+
+      <div style="clear: both"></div>
+    </div>
+    <footer>
+      The XLC Team &copy 2012 All Rights Reserved
+    </footer>
+    <div style="clear: both"></div>
+  </div>  
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/js/libs/jquery.js"><\/script>')</script>
+  <script src="/js/jquery.ui.potato.menu.js"></script>
+
+  <script src="/js/plugins.js"></script>
+  <script src="/js/script.js"></script>
+
+  <script>
+    $(function(){
+      if ($.browser.mozilla) {
+        $('header h1').css('letter-spacing', '-0.10em');
+      }
+
+      $('#menu').ptMenu({horizontal: true});
+      if ( $('#menu a:first').hasClass('selected') ) {
+        $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
+      } else {
+        $('#menu a:first').mouseover(function(){
+          $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
+        });
+        $('#menu a:first').mouseout(function(){
+          $('#menu a:first img').attr('src', '/img/logo_icon.png');
+        });
+      }
+
+    });
+
+    var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'http://ssl':'http://www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+</body>
+</html>
+;T:rawI"$<p> <h1>Hi There!</h1> </p>
+<p>We are the XLC Team, a robotic team from Slovakia. </p>
+<p> Most of the time we build robots.<br />
+Some of them <a href="/robots/soccer">play socer</a>. <br />
+Some are trying to act as rescurers. <br />
+Some even <a href="/robots/dance">dance</a>. <br />
+Nearly all of them participate in the 
+<a href="http://robotika.sk/rcj">RoboCup Junior</a> competition.
+  </p>
+<p>We also teach others how to build and program them.</p>
+<p>Apart from that <a href="/projects">we build software</a> which makes it easier 
+    to do what we do.</p>
+<p>We do all of this because we can.<br /> 
+And we can because we are <a href="/about#driven-by-passion">driven by passion</a>. <br /> 
+And supported by our sponsors. </p>
+<p>And we would be really greatful if you could support us. </p>;T:preI"%<p> <h1>Hi There!</h1> </p>
+<p>We are the XLC Team, a robotic team from Slovakia. </p>
+<p> Most of the time we build robots.<br />
+Some of them <a href="/robots/soccer">play socer</a>. <br />
+Some are trying to act as rescurers. <br />
+Some even <a href="/robots/dance">dance</a>. <br />
+Nearly all of them participate in the 
+<a href="http://robotika.sk/rcj">RoboCup Junior</a> competition.
+  </p>
+<p>We also teach others how to build and program them.</p>
+<p>Apart from that <a href="/projects">we build software</a> which makes it easier 
+    to do what we do.</p>
+<p>We do all of this because we can.<br /> 
+And we can because we are <a href="/about#driven-by-passion">driven by passion</a>. <br /> 
+And supported by our sponsors. </p>
+<p>And we would be really greatful if you could support us. </p>
+;T:	post@
+I"/projects/;T{;{	;I"<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Projects - XLC Team</title>
+  <meta name="description" content="">
+
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/jquery.ui.potato.menu.css">
+  <link href='http://fonts.googleapis.com/css?family=Days%20One|Imprima' rel='stylesheet' type='text/css'>
+
+  <script src="/js/libs/modernizr.js"></script>
+</head>
+<body>
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+  <div id="container">
+    <header>
+      <h1> XLC Team </h1>
+      <div id="logo">
+        <img src="/img/logo_head.png" />
+      </div>
+      <p class="motto"> <em> We build robots. Because we can.</em> </p>
+     <div style="clear: both"></div>
+    </header>
+    <div role="main">
+      <div>
+        <nav >
+          <ul id="menu">
+            <li>
+                <a href="/">&nbsp<img src="/img/logo_icon.png" />&nbsp</a> 
+            </li>
+            <li> <a href="/about/">About</a> </li>
+            <li> <a href="/achievements/">Achievements</a> </li>
+            <li> <a class="selected" title="You're here.">Projects</a>
+              <ul>
+                <li> <a href="/projects/robots">Robots</a> </li>
+                <li> <a href="/projects/software">Software</a> </li>
+              </ul>
+            </li>
+            <li> <a href="/sponsors/">Sponsors</a>  </li>
+            <li> <a href="/contact/">Contact</a>  </li>
+          </ul>
+        </nav>
+      </div>
+      <div id="content">
+        <h1 id="projects">Projects</h1>
+
+<p>Projects</p>
+
+      <div style="clear: both"></div>
+    </div>
+    <footer>
+      The XLC Team &copy 2012 All Rights Reserved
+    </footer>
+    <div style="clear: both"></div>
+  </div>  
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/js/libs/jquery.js"><\/script>')</script>
+  <script src="/js/jquery.ui.potato.menu.js"></script>
+
+  <script src="/js/plugins.js"></script>
+  <script src="/js/script.js"></script>
+
+  <script>
+    $(function(){
+      if ($.browser.mozilla) {
+        $('header h1').css('letter-spacing', '-0.10em');
+      }
+
+      $('#menu').ptMenu({horizontal: true});
+      if ( $('#menu a:first').hasClass('selected') ) {
+        $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
+      } else {
+        $('#menu a:first').mouseover(function(){
+          $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
+        });
+        $('#menu a:first').mouseout(function(){
+          $('#menu a:first img').attr('src', '/img/logo_icon.png');
+        });
+      }
+
+    });
+
+    var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'http://ssl':'http://www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+</body>
+</html>
+;T;	I"# Projects
+
+Projects;T;
+I"6<h1 id="projects">Projects</h1>
+
+<p>Projects</p>
+;T;@I"/achievements/;T{;{	;I"<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Achievements - XLC Team</title>
+  <meta name="description" content="">
+
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/jquery.ui.potato.menu.css">
+  <link href='http://fonts.googleapis.com/css?family=Days%20One|Imprima' rel='stylesheet' type='text/css'>
+
+  <script src="/js/libs/modernizr.js"></script>
+</head>
+<body>
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+  <div id="container">
+    <header>
+      <h1> XLC Team </h1>
+      <div id="logo">
+        <img src="/img/logo_head.png" />
+      </div>
+      <p class="motto"> <em> We build robots. Because we can.</em> </p>
+     <div style="clear: both"></div>
+    </header>
+    <div role="main">
+      <div>
+        <nav >
+          <ul id="menu">
+            <li>
+                <a href="/">&nbsp<img src="/img/logo_icon.png" />&nbsp</a> 
+            </li>
+            <li> <a href="/about/">About</a> </li>
+            <li> <a class="selected" title="You're here.">Achievements</a> </li>
+            <li> <a href="/projects/">Projects</a>
+              <ul>
+                <li> <a href="/projects/robots">Robots</a> </li>
+                <li> <a href="/projects/software">Software</a> </li>
+              </ul>
+            </li>
+            <li> <a href="/sponsors/">Sponsors</a>  </li>
+            <li> <a href="/contact/">Contact</a>  </li>
+          </ul>
+        </nav>
+      </div>
+      <div id="content">
+        <h1 id="achievements">Achievements</h1>
+
+<p>Achievements</p>
+
+      <div style="clear: both"></div>
+    </div>
+    <footer>
+      The XLC Team &copy 2012 All Rights Reserved
+    </footer>
+    <div style="clear: both"></div>
+  </div>  
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/js/libs/jquery.js"><\/script>')</script>
+  <script src="/js/jquery.ui.potato.menu.js"></script>
+
+  <script src="/js/plugins.js"></script>
+  <script src="/js/script.js"></script>
+
+  <script>
+    $(function(){
+      if ($.browser.mozilla) {
+        $('header h1').css('letter-spacing', '-0.10em');
+      }
+
+      $('#menu').ptMenu({horizontal: true});
+      if ( $('#menu a:first').hasClass('selected') ) {
+        $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
+      } else {
+        $('#menu a:first').mouseover(function(){
+          $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
+        });
+        $('#menu a:first').mouseout(function(){
+          $('#menu a:first img').attr('src', '/img/logo_icon.png');
+        });
+      }
+
+    });
+
+    var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'http://ssl':'http://www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+</body>
+</html>
+;T;	I"!# Achievements
+
+Achievements;T;
+I"B<h1 id="achievements">Achievements</h1>
+
+<p>Achievements</p>
+;T;@I"/img/avatars/gazi/;T{;{ I"/img/logo_head/;T{;{ I"/img/logo_icon_black/;T{;{ I"/img/logo/;T{;{ I"/img/logo_icon/;T{;{ I"/img/team/;T{;{ I"/js/script/;T{;{ I"/js/plugins/;T{;{ I"/js/jquery/;T{;{ I"/js/libs/modernizr/;T{;{ I"/js/libs/jquery/;T{;{ I"/about/;T{;{	;I"à<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>About - XLC Team</title>
+  <meta name="description" content="">
+
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/jquery.ui.potato.menu.css">
+  <link href='http://fonts.googleapis.com/css?family=Days%20One|Imprima' rel='stylesheet' type='text/css'>
+
+  <script src="/js/libs/modernizr.js"></script>
+</head>
+<body>
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+  <div id="container">
+    <header>
+      <h1> XLC Team </h1>
+      <div id="logo">
+        <img src="/img/logo_head.png" />
+      </div>
+      <p class="motto"> <em> We build robots. Because we can.</em> </p>
+     <div style="clear: both"></div>
+    </header>
+    <div role="main">
+      <div>
+        <nav >
+          <ul id="menu">
+            <li>
+                <a href="/">&nbsp<img src="/img/logo_icon.png" />&nbsp</a> 
+            </li>
+            <li> <a class="selected" title="You're here.">About</a> </li>
+            <li> <a href="/achievements/">Achievements</a> </li>
+            <li> <a href="/projects/">Projects</a>
+              <ul>
+                <li> <a href="/projects/robots">Robots</a> </li>
+                <li> <a href="/projects/software">Software</a> </li>
+              </ul>
+            </li>
+            <li> <a href="/sponsors/">Sponsors</a>  </li>
+            <li> <a href="/contact/">Contact</a>  </li>
+          </ul>
+        </nav>
+      </div>
+      <div id="content">
+        <h1 id="about-us">About Us</h1>
+
+<p>We are a group of young people interested in programming, electronics, robots
+and other similar things. </p>
+
+<div class="center_photo">
+
+  <p><img src="/img/team.png" alt="the Team Photo" /></p>
+
+</div>
+
+<h2 id="the-team">The Team</h2>
+
+<div class="photo">
+
+  <p><img src="/img/avatars/gazi.png" alt="Gazi" /></p>
+
+</div>
+
+<div class="about">
+
+  <h4 id="rastislav-gai">Rastislav Ga≈æi</h4>
+  <p><em>the leader</em> </p>
+
+  <p>Mr. Ga≈æi is the driving force behind the XLC Team. His energy, passion and
+vision are visible in everything we created. As a team leader he makes sure we
+have everything we need for our work. </p>
+
+  <p>Apart from that, he makes sure we never forget that what we do should be fun 
+first and everything else then.</p>
+
+</div>
+
+<div style="clear:both"></div>
+
+<h4 id="jakub-krolk">Jakub Kro≈°l√°k</h4>
+<p><em>master of electronics</em></p>
+
+<h4 id="jn-urk">J√°n ƒéurk√°ƒç</h4>
+<p><em>master of the force</em></p>
+
+<h4 id="marek-uppa">Marek ≈†uppa</h4>
+<p><em>the lead developer</em></p>
+
+<h4 id="adrin-matejov">Adri√°n Matejov</h4>
+<p><em>master of the flash</em></p>
+
+<h4 id="martin-faltus">Martin Faltus</h4>
+<p><em>master of ‚Ä¶</em></p>
+
+<h3 id="padawans">Padawans</h3>
+
+<h4 id="dvid-fusan">D√°vid Fusan</h4>
+<p><em>drunken master of wisdom</em></p>
+
+<h4 id="mrio-kaina">M√°rio Kaƒçina</h4>
+
+<h4 id="mika-gaiov">Mi≈°ka Ga≈æiov√°</h4>
+
+<h2 id="the-name">The name</h2>
+
+<h2 id="passion">Passion</h2>
+
+      <div style="clear: both"></div>
+    </div>
+    <footer>
+      The XLC Team &copy 2012 All Rights Reserved
+    </footer>
+    <div style="clear: both"></div>
+  </div>  
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/js/libs/jquery.js"><\/script>')</script>
+  <script src="/js/jquery.ui.potato.menu.js"></script>
+
+  <script src="/js/plugins.js"></script>
+  <script src="/js/script.js"></script>
+
+  <script>
+    $(function(){
+      if ($.browser.mozilla) {
+        $('header h1').css('letter-spacing', '-0.10em');
+      }
+
+      $('#menu').ptMenu({horizontal: true});
+      if ( $('#menu a:first').hasClass('selected') ) {
+        $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
+      } else {
+        $('#menu a:first').mouseover(function(){
+          $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
+        });
+        $('#menu a:first').mouseout(function(){
+          $('#menu a:first img').attr('src', '/img/logo_icon.png');
+        });
+      }
+
+    });
+
+    var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'http://ssl':'http://www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+</body>
+</html>
+;T;	I".# About Us
+
+We are a group of young people interested in programming, electronics, robots
+and other similar things. 
+
+
+<div class="center_photo" markdown="1">
+
+![the Team Photo](/img/team.png)
+
+</div>
+
+The Team
+--------
+
+
+<div class="photo" markdown="1">
+
+![Gazi](/img/avatars/gazi.png)
+
+</div>
+
+<div class="about" markdown="1">
+
+#### Rastislav Ga≈æi 
+*the leader* 
+
+Mr. Ga≈æi is the driving force behind the XLC Team. His energy, passion and
+vision are visible in everything we created. As a team leader he makes sure we
+have everything we need for our work. 
+
+Apart from that, he makes sure we never forget that what we do should be fun 
+first and everything else then.
+
+</div>
+
+<div style='clear:both'></div>
+
+
+#### Jakub Kro≈°l√°k
+*master of electronics*
+
+
+#### J√°n ƒéurk√°ƒç
+*master of the force*
+
+#### Marek ≈†uppa
+*the lead developer*
+
+
+
+#### Adri√°n Matejov
+*master of the flash*
+
+#### Martin Faltus
+*master of ...*
+
+
+### Padawans
+
+
+
+#### D√°vid Fusan
+*drunken master of wisdom*
+
+#### M√°rio Kaƒçina
+
+#### Mi≈°ka Ga≈æiov√°
+
+
+The name
+--------
+
+
+
+Passion
+-------;T;
+I"∏<h1 id="about-us">About Us</h1>
+
+<p>We are a group of young people interested in programming, electronics, robots
+and other similar things. </p>
+
+<div class="center_photo">
+
+  <p><img src="/img/team.png" alt="the Team Photo" /></p>
+
+</div>
+
+<h2 id="the-team">The Team</h2>
+
+<div class="photo">
+
+  <p><img src="/img/avatars/gazi.png" alt="Gazi" /></p>
+
+</div>
+
+<div class="about">
+
+  <h4 id="rastislav-gai">Rastislav Ga≈æi</h4>
+  <p><em>the leader</em> </p>
+
+  <p>Mr. Ga≈æi is the driving force behind the XLC Team. His energy, passion and
+vision are visible in everything we created. As a team leader he makes sure we
+have everything we need for our work. </p>
+
+  <p>Apart from that, he makes sure we never forget that what we do should be fun 
+first and everything else then.</p>
+
+</div>
+
+<div style="clear:both"></div>
+
+<h4 id="jakub-krolk">Jakub Kro≈°l√°k</h4>
+<p><em>master of electronics</em></p>
+
+<h4 id="jn-urk">J√°n ƒéurk√°ƒç</h4>
+<p><em>master of the force</em></p>
+
+<h4 id="marek-uppa">Marek ≈†uppa</h4>
+<p><em>the lead developer</em></p>
+
+<h4 id="adrin-matejov">Adri√°n Matejov</h4>
+<p><em>master of the flash</em></p>
+
+<h4 id="martin-faltus">Martin Faltus</h4>
+<p><em>master of ‚Ä¶</em></p>
+
+<h3 id="padawans">Padawans</h3>
+
+<h4 id="dvid-fusan">D√°vid Fusan</h4>
+<p><em>drunken master of wisdom</em></p>
+
+<h4 id="mrio-kaina">M√°rio Kaƒçina</h4>
+
+<h4 id="mika-gaiov">Mi≈°ka Ga≈æiov√°</h4>
+
+<h2 id="the-name">The name</h2>
+
+<h2 id="passion">Passion</h2>
+;T;@=I"/stylesheet/;T{;{ I"/css/jquery/;T{;{ I"/css/style/;T{;{ I"//css/fonts/IM_Fell_English_SC/IMFeENsc28P/;T{;{ I"/css/fonts/OFL/;T{;{;I"åCopyright (c) 2011, Jovanny Lemonad (http://www.jovanny.ru)
+with Reserved Font Name "Days One"
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+;T;	@O;
+@OI",/css/fonts/Enriqueta/Enriqueta-Regular/;T{;{ I"/css/fonts/Enriqueta/OFL/;T{;{;I"úCopyright (c) 2011, FontFuror (info@fontfuror.com), 
+with Reserved Font Names "Enriqueta" and "Enriqueta Pro".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+;T;	@V;
+@VI")/css/fonts/Enriqueta/Enriqueta-Bold/;T{;{ I"/css/fonts/fonts_xlcteam/;T{;{ I"./css/fonts/Alegreya/Alegreya-BlackItalic/;T{;{ I"/css/fonts/Alegreya/OFL/;T{;{;I"¨Copyright (c) 2011, Juan Pablo del Peral (juan@huertatipografica.com.ar), 
+with Reserved Font Names "Alegreya" "Alegreya SC"
+
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+;T;	@c;
+@cI"'/css/fonts/Alegreya/Alegreya-Bold/;T{;{ I"(/css/fonts/Alegreya/Alegreya-Black/;T{;{ I"*/css/fonts/Alegreya/Alegreya-Regular/;T{;{ I"-/css/fonts/Alegreya/Alegreya-BoldItalic/;T{;{ I")/css/fonts/Alegreya/Alegreya-Italic/;T{;{ I"/css/fonts/PT_Serif/OFL/;T{;{;I"´Copyright (c) 2010, ParaType Ltd. (http://www.paratype.com/public),
+with Reserved Font Names "PT Sans", "PT Serif" and "ParaType".
+
+This Font Software is licensed under the Open Font License, Version 1.1 
+This license is copied below, and is also available with a FAQ at: 
+http://scripts.sil.org/OFL
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+;T;	@v;
+@vI"+/css/fonts/PT_Serif/PT_Serif-Web-Bold/;T{;{ I"1/css/fonts/PT_Serif/PT_Serif-Web-BoldItalic/;T{;{ I"./css/fonts/PT_Serif/PT_Serif-Web-Regular/;T{;{ I"-/css/fonts/PT_Serif/PT_Serif-Web-Italic/;T{;{ I"//css/fonts/Crete_Round/CreteRound-Regular/;T{;{ I" /css/fonts/Crete_Round/OFL/;T{;{;I"õCopyright (c) 2011, TypeTogether (www.type-together.com), 
+with Reserved Font Names "Crete" and "Crete Round"
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+;T;	@Ñ;
+@ÑI"./css/fonts/Crete_Round/CreteRound-Italic/;T{;{ I"/css/fonts/Brawler/OFL/;T{;{;I"}Copyright (c) 2011, Cyreal (www.cyreal.org),
+with Reserved Font Name "Brawler".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+;T;	@ã;
+@ãI"(/css/fonts/Brawler/Brawler-Regular/;T{;{ I"/css/fonts/Mate_SC/OFL/;T{;{;I"àCopyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar),
+with Reserved Font Name "Mate"
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+;T;	@í;
+@íI"'/css/fonts/Mate_SC/MateSC-Regular/;T{;{ I"/css/fonts/Tienne/OFL/;T{;{;I"Copyright (c) 2011, Cyreal (www.cyreal.org),
+Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk),
+Copyright (c) 2009, 2010, 2011 Google, Inc (www.google.com/webfonts),
+with Reserved Font Names "Artifika", "Tienne"
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+;T;	@ô;
+@ôI"$/css/fonts/Tienne/Tienne-Heavy/;T{;{ I"#/css/fonts/Tienne/Tienne-Bold/;T{;{ I"&/css/fonts/Tienne/Tienne-Regular/;T{;{ I" /css/fonts/DaysOne-Regular/;T{;{ I"/css/fonts/Bree_Serif/OFL/;T{;{;I"ôCopyright (c) 2011, TypeTogether (www.type-together.com), 
+with Reserved Font Names "Bree" and "Bree Serif"
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+;T;	@©;
+@©I"-/css/fonts/Bree_Serif/BreeSerif-Regular/;T{;{ I"/css/fonts/Poly/OFL/;T{;{;I"ùCopyright (c) 2010, 2011 Jos√© Nicol√°s Silva Schwarzenberg <info@nsilva.com>,
+with Reserved Font Names "Poly".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+;T;	@∞;
+@∞I"!/css/fonts/Poly/Poly-Italic/;T{;{ I""/css/fonts/Poly/Poly-Regular/;T{;{ I"/css/fonts/Trocchi/OFL/;T{;{;I"åCopyright (c) 2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names "Trocchi"
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+;T;	@∫;
+@∫I"(/css/fonts/Trocchi/Trocchi-Regular/;T{;{ I" /css/fonts/Imprima-Regular/;T{;{ I"/css/fonts/Days_One/;T{;{ I" /css/fonts/Cantata_One/OFL/;T{;{;I"ãCopyright (c) 2011 by Sorkin Type Co (www.sorkintype.com),
+with Reserved Font Name "Cantata".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+;T;	@«;
+@«I"//css/fonts/Cantata_One/CantataOne-Regular/;T{;{ I"/sponsors/;T{;{	;I"<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Sponsors - XLC Team</title>
+  <meta name="description" content="">
+
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/jquery.ui.potato.menu.css">
+  <link href='http://fonts.googleapis.com/css?family=Days%20One|Imprima' rel='stylesheet' type='text/css'>
+
+  <script src="/js/libs/modernizr.js"></script>
+</head>
+<body>
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+  <div id="container">
+    <header>
+      <h1> XLC Team </h1>
+      <div id="logo">
+        <img src="/img/logo_head.png" />
+      </div>
+      <p class="motto"> <em> We build robots. Because we can.</em> </p>
+     <div style="clear: both"></div>
+    </header>
+    <div role="main">
+      <div>
+        <nav >
+          <ul id="menu">
+            <li>
+                <a href="/">&nbsp<img src="/img/logo_icon.png" />&nbsp</a> 
+            </li>
+            <li> <a href="/about/">About</a> </li>
+            <li> <a href="/achievements/">Achievements</a> </li>
+            <li> <a href="/projects/">Projects</a>
+              <ul>
+                <li> <a href="/projects/robots">Robots</a> </li>
+                <li> <a href="/projects/software">Software</a> </li>
+              </ul>
+            </li>
+            <li> <a class="selected" title="You're here.">Sponsors</a>  </li>
+            <li> <a href="/contact/">Contact</a>  </li>
+          </ul>
+        </nav>
+      </div>
+      <div id="content">
+        <h1 id="sponsors">Sponsors</h1>
+
+<p>Sponsors</p>
+
+      <div style="clear: both"></div>
+    </div>
+    <footer>
+      The XLC Team &copy 2012 All Rights Reserved
+    </footer>
+    <div style="clear: both"></div>
+  </div>  
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/js/libs/jquery.js"><\/script>')</script>
+  <script src="/js/jquery.ui.potato.menu.js"></script>
+
+  <script src="/js/plugins.js"></script>
+  <script src="/js/script.js"></script>
+
+  <script>
+    $(function(){
+      if ($.browser.mozilla) {
+        $('header h1').css('letter-spacing', '-0.10em');
+      }
+
+      $('#menu').ptMenu({horizontal: true});
+      if ( $('#menu a:first').hasClass('selected') ) {
+        $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
+      } else {
+        $('#menu a:first').mouseover(function(){
+          $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
+        });
+        $('#menu a:first').mouseout(function(){
+          $('#menu a:first img').attr('src', '/img/logo_icon.png');
+        });
+      }
+
+    });
+
+    var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'http://ssl':'http://www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+</body>
+</html>
+;T;	I"# Sponsors
+
+Sponsors;T;
+I"6<h1 id="sponsors">Sponsors</h1>
+
+<p>Sponsors</p>
+;T;@ŒI"/contact/;T{;{	;I"˛<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Contact - XLC Team</title>
+  <meta name="description" content="">
+
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/jquery.ui.potato.menu.css">
+  <link href='http://fonts.googleapis.com/css?family=Days%20One|Imprima' rel='stylesheet' type='text/css'>
+
+  <script src="/js/libs/modernizr.js"></script>
+</head>
+<body>
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+  <div id="container">
+    <header>
+      <h1> XLC Team </h1>
+      <div id="logo">
+        <img src="/img/logo_head.png" />
+      </div>
+      <p class="motto"> <em> We build robots. Because we can.</em> </p>
+     <div style="clear: both"></div>
+    </header>
+    <div role="main">
+      <div>
+        <nav >
+          <ul id="menu">
+            <li>
+                <a href="/">&nbsp<img src="/img/logo_icon.png" />&nbsp</a> 
+            </li>
+            <li> <a href="/about/">About</a> </li>
+            <li> <a href="/achievements/">Achievements</a> </li>
+            <li> <a href="/projects/">Projects</a>
+              <ul>
+                <li> <a href="/projects/robots">Robots</a> </li>
+                <li> <a href="/projects/software">Software</a> </li>
+              </ul>
+            </li>
+            <li> <a href="/sponsors/">Sponsors</a>  </li>
+            <li> <a class="selected" title="You're here.">Contact</a>  </li>
+          </ul>
+        </nav>
+      </div>
+      <div id="content">
+        <h1 id="contact">Contact</h1>
+
+<p>Contact</p>
+
+      <div style="clear: both"></div>
+    </div>
+    <footer>
+      The XLC Team &copy 2012 All Rights Reserved
+    </footer>
+    <div style="clear: both"></div>
+  </div>  
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/js/libs/jquery.js"><\/script>')</script>
+  <script src="/js/jquery.ui.potato.menu.js"></script>
+
+  <script src="/js/plugins.js"></script>
+  <script src="/js/script.js"></script>
+
+  <script>
+    $(function(){
+      if ($.browser.mozilla) {
+        $('header h1').css('letter-spacing', '-0.10em');
+      }
+
+      $('#menu').ptMenu({horizontal: true});
+      if ( $('#menu a:first').hasClass('selected') ) {
+        $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
+      } else {
+        $('#menu a:first').mouseover(function(){
+          $('#menu a:first img').attr('src', '/img/logo_icon_black.png');
+        });
+        $('#menu a:first').mouseout(function(){
+          $('#menu a:first img').attr('src', '/img/logo_icon.png');
+        });
+      }
+
+    });
+
+    var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'http://ssl':'http://www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+</body>
+</html>
+;T;	I"# Contact
+
+Contact;T;
+I"3<h1 id="contact">Contact</h1>
+
+<p>Contact</p>
+;T;@‘:versioni
