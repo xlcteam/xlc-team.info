@@ -19,6 +19,18 @@ These ones were quite successful:
     <h2 class="timelineMajorMarker"><span>2015</span></h2>
     <dl class="timelineMinor">
 
+      <dt id="event26"><a>RoboCup Junior World Championship Hefei</a></dt>
+      <dd class="timelineEvent" id="event26EX" style="display: none; ">
+        <div><ul>
+             <li>Soccer Open League SuperTeams - 1st prize</li>
+             <li>Soccer Open League - 16th place</li>
+             <li>Soccer Lightweight Secondary SuperTeams - 4th place</li>
+             <li>Soccer Lightweight Secondary - 17th place</li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
       <dt id="event25"><a>Robotic Battle Kosice</a></dt>
       <dd class="timelineEvent" id="event25EX" style="display: none; ">
         <div><ul>
