@@ -20,6 +20,12 @@ There is only one thing we want to tell them.
 </div>
 
 <div id="sponsors_scroller">
+    <img src="/img/sponsors/aquaclean.png" alt="Aquaclean"></img>
+    <img src="/img/sponsors/dinansi.jpg" alt="Dinansi"></img>
+    <img src="/img/sponsors/ferart.jpg" alt="Ferart"></img>
+    <img src="/img/sponsors/fornaxa.png" alt="Fornaxa"></img>
+    <img src="/img/sponsors/metas.jpg" alt="Metas"></img>
+    <img src="/img/sponsors/pmao.png" alt="Pmao"></img>
     <img src="/img/sponsors/gmlink.jpg" alt="GM-Link"></img>
     <img src="/img/sponsors/abcom.jpeg" alt="ab-com shop"></img>
     <img src="/img/sponsors/zavodsky.jpg" alt="Distribúcia Závodský"></img>
