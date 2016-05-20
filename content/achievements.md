@@ -14,6 +14,25 @@ These ones were quite successful:
 
 <div id="timelineContainer">
 
+  <!-- year 2016 -->
+  <div class="timelineMajor">
+    <h2 class="timelineMajorMarker"><span>2016</span></h2>
+    <dl class="timelineMinor">
+
+      <dt id="event27"><a>RoboCup Junior Slovak Open</a></dt>
+      <dd class="timelineEvent" id="event27EX" style="display: none; ">
+        <div><ul>
+             <li>Soccer Open - 1st & 3rd prize</li>
+             <li>Soccer Lightweight secondary - 2nd prize</li>
+             <li>Soccer Lightweight primary - 2nd prize</li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+    </dl>
+  </div>
+
   <!-- year 2015 -->
   <div class="timelineMajor">
     <h2 class="timelineMajorMarker"><span>2015</span></h2>
@@ -26,6 +45,7 @@ These ones were quite successful:
              <li>Soccer Open League - 16th place</li>
              <li>Soccer Lightweight Secondary SuperTeams - 4th place</li>
              <li>Soccer Lightweight Secondary - 17th place</li>
+             <li><strong>*</strong>Special award for the best robot presentation<strong>*</strong></li>
             </ul>
         </div>
         <br class="clear"/>
