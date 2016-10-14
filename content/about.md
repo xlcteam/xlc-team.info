@@ -274,6 +274,89 @@ The title says it all.
 <!-- /marekt -->
 
 
+### Bardaci
+-----------
+
+The name **Bardaci** is just garbled Slovak word 'babraci', which we can
+translate as 'numb hand'. Although that's not always true, we have used it
+since Mr. Gazi called so the first original **Bardaci** (those two below).
+So it's really hard to describe one without the other and vice versa, they have
+come neck by neck and both are similarly crazy.
+
+But give it a try:
+
+<!-- adamh -->
+<div class="photo" markdown="1">
+
+![Herda](/img/avatars/adam_h.png)
+
+</div>
+
+<div class="about" markdown="1">
+#### Adam Herda {#herda}
+*master of dogs*
+
+He prepares (and sometimes destroys) hardware, but his place is primarily at
+the table with a soldering iron in one hand. We can say he is kind of Jakub's
+successor.
+
+In addition to the title *master of dogs* he is also *master of merkur*,
+especially merkur robotic arm. And so you see how necessary is he in our team -
+you never know the time you will need next servant-arm.
+
+</div>
+<div class='clear'></div>
+<!-- /adamh -->
+
+
+<!-- adamm -->
+<div class="photo" markdown="1">
+
+![Mikula](/img/avatars/adam_m.png)
+
+</div>
+
+<div class="about" markdown="1">
+#### Adam Mikula {#mikula}
+*master of soldering*
+
+Every time he walks into our small lab, he brings a lot of fun and talks to
+Adam Herda. But fortunately that's not his main job - he builds the
+construction of our robots, the base, without which we almost cannot proceed.
+
+Other times he helps either psychically or physically. Mostly by using
+encouraging words "We are winners" and fixing wheels back on robot during
+programmer's test runs...
+
+</div>
+<div class='clear'></div>
+<!-- /adamm -->
+
+
+<!-- vargac -->
+<div class="photo" markdown="1">
+
+![Simon](/img/avatars/simon.png)
+
+</div>
+
+<div class="about" markdown="1">
+#### Šimon Varga {#vargac}
+*master of Bardaci's code*
+
+Even robots made by **Bardaci** need software. Often it's only few lines for
+rotating motor, however sometimes he writes longer, nasty code, that you
+don't want to read (or worse - rewrite). During his life there have been
+couple of decisions to program a game, poor attempts to make computer vision
+and half-way successful ball kicks to goal or (re)writing simple shell for
+Arduino. He spends most of his time programming in C or Python.
+
+</div>
+<div class='clear'></div>
+<!-- /vargac -->
+
+
+
 The Name {#name}
 --------
 
