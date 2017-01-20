@@ -19,12 +19,21 @@ These ones were quite successful:
     <h2 class="timelineMajorMarker"><span>2016</span></h2>
     <dl class="timelineMinor">
 
-      <dt id="event28"><a>RoboCup Junior World Championship Leipzig</a></dt>
-      <dd class="timelineEvent" id="event28EX" style="display: none; ">
+      <dt id="event29"><a>RoboCup Junior World Championship Leipzig</a></dt>
+      <dd class="timelineEvent" id="event29EX" style="display: none; ">
         <div><ul>
              <li>Soccer Lightweight Secondary - 8th place</li>
              <li>Soccer Lightweight Secondary SuperTeams - 5th place</li>
              <li><strong>*</strong>Special award for the best innovation<strong>*</strong></li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+      <dt id="event28"><a>Robotic Battle Kosice</a></dt>
+      <dd class="timelineEvent" id="event28EX" style="display: none; ">
+        <div><ul>
+             <li>Racing-electronics - 3rd prize</li>
             </ul>
         </div>
         <br class="clear"/>
