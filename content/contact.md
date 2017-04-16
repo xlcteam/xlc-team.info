@@ -8,7 +8,7 @@ Discussing everthing is one of our core values. We really like it. And we also
 like to talk with people about pretty much everything.
 
 So if you have something to say just write us an
-[email](mailto:contact@mail.xlc-team.info), ping us on
+[email](mailto:xlcteam@googlegroups.com), ping us on
 [IRC](https://kiwiirc.com/client/irc.freenode.net/#xlcteam), follow
 and tweet us on [Twitter](http://twitter.com/XLCTeam), like us on
 [Facebook](http://facebook.com/xlc.team), check out our code at
