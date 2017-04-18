@@ -19,7 +19,7 @@ or come in personally. We like visitors.
 ----------
 
 Although the best way of contactin us is via our
-[general contact email](mailto:contact@mail.xlc-team.info) you might want to
+[general contact email](mailto:xlcteam@googlegroups.com) you might want to
 contact some of us directly. Here are a few emails.
 
 
