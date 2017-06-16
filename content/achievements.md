@@ -19,6 +19,15 @@ These ones were quite successful:
     <h2 class="timelineMajorMarker"><span>2017</span></h2>
     <dl class="timelineMinor">
 
+      <dt id="event31"><a>Euro Soccer Junior Contest Spain</a></dt>
+      <dd class="timelineEvent" id="event31EX" style="display: none; ">
+        <div><ul>
+             <li>Soccer Open - 2nd prize</li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
       <dt id="event30"><a>RoboCup Junior Slovak Open</a></dt>
       <dd class="timelineEvent" id="event30EX" style="display: none; ">
         <div><ul>
