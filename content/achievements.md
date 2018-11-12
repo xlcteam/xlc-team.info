@@ -19,6 +19,16 @@ These ones were quite successful:
     <h2 class="timelineMajorMarker"><span>2018</span></h2>
     <dl class="timelineMinor">
 
+      <dt id="event34"><a>RoboCup Junior European Championship Montesilvano</a></dt>
+      <dd class="timelineEvent" id="event34EX" style="display: none; ">
+        <div><ul>
+             <li>Soccer Lightweight - 6th place</li>
+             <li><strong>*</strong>Soccer Lightweight - Special award for the best presentation<strong>*</strong></li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
       <dt id="event33"><a>RoboCup Junior Slovak Open</a></dt>
       <dd class="timelineEvent" id="event33EX" style="display: none; ">
         <div><ul>
