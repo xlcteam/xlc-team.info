@@ -34,8 +34,8 @@ These ones were quite successful:
         <div><ul>
              <li>Soccer Lightweight - 2nd prize</li>
              <li>Soccer Lightweight - 3rd prize</li>
-             <li><strong>*</strong>Soccer Lightweight - Special award for the best technical solution<strong>*</strong></li>
              <li>Robotic arm - 1st prize</li>
+             <li><strong>*</strong>Soccer Lightweight - Special award for the best technical solution<strong>*</strong></li>
             </ul>
         </div>
         <br class="clear"/>
