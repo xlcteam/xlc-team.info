@@ -336,7 +336,7 @@ programmer's test runs...
 <!-- vargac -->
 <div class="photo" markdown="1">
 
-![Simon](/img/avatars/simon.png)
+![SimonV](/img/avatars/simon_v.png)
 
 </div>
 
@@ -354,6 +354,57 @@ Arduino. He spends most of his time programming in C or Python.
 </div>
 <div class='clear'></div>
 <!-- /vargac -->
+
+
+<!-- jakubg -->
+<div class="photo" markdown="1">
+
+![Jakub](/img/avatars/jakub_g.png)
+
+</div>
+
+<div class="about" markdown="1">
+#### Jakub Gál {#jakub}
+*master of st*
+
+
+</div>
+<div class='clear'></div>
+<!-- /jakubg -->
+
+
+<!-- samuel -->
+<div class="photo" markdown="1">
+
+![Samo](/img/avatars/samo.png)
+
+</div>
+
+<div class="about" markdown="1">
+#### Samuel Peter {#samo}
+*master of st*
+
+
+</div>
+<div class='clear'></div>
+<!-- /samuel -->
+
+
+<!-- simonp -->
+<div class="photo" markdown="1">
+
+![SimonP](/img/avatars/simon_p.png)
+
+</div>
+
+<div class="about" markdown="1">
+#### Šimon Peter {#simon}
+*master of st*
+
+
+</div>
+<div class='clear'></div>
+<!-- /simonp -->
 
 
 
