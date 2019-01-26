@@ -365,8 +365,15 @@ Arduino. He spends most of his time programming in C or Python.
 
 <div class="about" markdown="1">
 #### Jakub Gál {#jakub}
-*master of st*
+*master of engineering*
 
+You know, something begins and something ends. So it was, that
+<a href="/about#vargac">Simon</a> has stopped writing code for Bardaci's
+machines. But Jakub has taken his place with great passion and brought new
+life to those inanimate robots. He is capable of creating the software and
+hardware almost completely on his own and that makes him a real engineer.
+His madness about robotics and novel view to problems are very
+necessary in the team.
 
 </div>
 <div class='clear'></div>
