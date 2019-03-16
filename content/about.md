@@ -402,11 +402,11 @@ are not still so youthful as they were that time.
 Samuel is the man behind the magic of constructing robots. When he creates
 something, it works about 70% of the time, but when it works, it works
 flawlessly... If he is not constructing, he can be seen in the wilderness
-trying to program something, or drinking Kofola. When he gets tired of his
+trying to program something or drinking Kofola. When he gets tired of his
 life, he can be seen tidying up our small lab, because it is almost always
 messy.
-If, rarely, he is not doing any of the mentioned activities, he is probably
-playing the ukulele and hurting our ears with the god awful music.
+If (rarely) he is not doing any of the aforementioned activities, he is probably
+playing the ukulele and hurting our ears with the awful music.
 
 </div>
 <div class='clear'></div>
@@ -427,8 +427,8 @@ playing the ukulele and hurting our ears with the god awful music.
 Well, actually this is not only another photo of <a href="#samo">Samuel</a>,
 Simon and Samuel are twins and that makes them a strong pair. Although
 sometimes he isn't really a team player and wants to make things on his own.
-Simon tends to be very precious and imaginative, so he usually designs robot
-components to print in a 3D printer. That's what he is keen on - jobs around
+Šimon tends to be very precious and imaginative, so he usually designs robot
+components to be printed in a 3D printer. That's what he is keen on - jobs around
 the 3D printer.
 
 </div>
@@ -445,10 +445,10 @@ the 3D printer.
 #### Filip Filo {#filo}
 *master of dismantling*
 
-You know, to build a robot, one need components. How to get them? Well,
-dismatling old robots, especially the LEGO ones, is not a bad idea. Filo has
+You know, to build a robot, one needs components. How to get them? Well,
+dismatling old robots (especially the LEGO ones) is not a bad idea. Filo has
 gained professional skill to do that (sometimes too much).
-Furthermore, he brings the light to the darkness of team troubles, his funny
+Furthermore, he brings the light to the darkness of team troubles and his funny
 temper and fantasy ideas have not once solved a problem.
 
 </div>
@@ -468,9 +468,10 @@ temper and fantasy ideas have not once solved a problem.
 Peter is very important member of the team. He helps the team with his
 fantastic energy, humor and marvelous music on ukulele. Of course, he helps
 with robots as well. But keeping team happy and in good mood is his part of
-a job. He is also a pizza man. That means he sometimes buy us a pizza.  Which
-is very nice. If you are looking for personal cheerleader, Peter is your
-choice. When he enters our Lab it is much better place than it was before.
+a job. He is also a pizza man. That means he sometimes buys us a pizza to
+keep us focused.
+If you are looking for personal cheerleader, Peter is your
+choice. When he enters our Lab it changes to a better place than it was before.
 
 </div>
 <div class='clear'></div>
@@ -487,8 +488,8 @@ choice. When he enters our Lab it is much better place than it was before.
 *master of drills*
 
 Marek is also a key member in our team. He makes a bit of everything: building
-robots, finding components, programming. His humour together with holding
-a drill in his hand cheers the team up. Without him, we wouldn't be a team.
+robots, looking for components, programming. His humour together with holding
+a drill in his hand cheers the team up. Without him we wouldn't be a team.
 
 </div>
 <div class='clear'></div>
