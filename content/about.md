@@ -368,7 +368,7 @@ Arduino. He spends most of his time programming in C or Python.
 *master of engineering*
 
 You know, something begins and something ends. So it was, that
-<a href="/about#vargac">Simon</a> has stopped writing code for Bardaci's
+<a href="#vargac">Simon</a> has stopped writing code for Bardaci's
 machines. But Jakub has taken his place with great passion and brought new
 life to those inanimate robots. He is capable of creating the software and
 hardware almost completely on his own and that makes him a real engineer.
@@ -380,6 +380,14 @@ necessary in the team.
 <!-- /jakubg -->
 
 
+### Younglings
+--------------
+
+Many young students have become members of our XLC family. Some left us
+after a time, others got more excited and steady. They started to call
+themselves *XLC Younglings* and they do so up to now, although they
+are not still so youthful as they were that time.
+
 <!-- samuel -->
 <div class="photo" markdown="1">
 
@@ -389,8 +397,16 @@ necessary in the team.
 
 <div class="about" markdown="1">
 #### Samuel Peter {#samo}
-*master of st*
+*master of construction*
 
+Samuel is the man behind the magic of constructing robots. When he creates
+something, it works about 70% of the time, but when it works, it works
+flawlessly... If he is not constructing, he can be seen in the wilderness
+trying to program something, or drinking Kofola. When he gets tired of his
+life, he can be seen tidying up our small lab, because it is almost always
+messy.
+If, rarely, he is not doing any of the mentioned activities, he is probably
+playing the ukulele and hurting our ears with the god awful music.
 
 </div>
 <div class='clear'></div>
@@ -406,12 +422,77 @@ necessary in the team.
 
 <div class="about" markdown="1">
 #### Šimon Peter {#simon}
-*master of st*
+*master of 3D printing*
 
+Well, actually this is not only another photo of <a href="#samo">Samuel</a>,
+Simon and Samuel are twins and that makes them a strong pair. Although
+sometimes he isn't really a team player and wants to make things on his own.
+Simon tends to be very precious and imaginative, so he usually designs robot
+components to print in a 3D printer. That's what he is keen on - jobs around
+the 3D printer.
 
 </div>
 <div class='clear'></div>
 <!-- /simonp -->
+
+
+<!-- filo -->
+<div class="photo" markdown="1">
+
+</div>
+
+<div class="about" markdown="1">
+#### Filip Filo {#filo}
+*master of dismantling*
+
+You know, to build a robot, one need components. How to get them? Well,
+dismatling old robots, especially the LEGO ones, is not a bad idea. Filo has
+gained professional skill to do that (sometimes too much).
+Furthermore, he brings the light to the darkness of team troubles, his funny
+temper and fantasy ideas have not once solved a problem.
+
+</div>
+<div class='clear'></div>
+<!-- /filo -->
+
+
+<!-- peter -->
+<div class="photo" markdown="1">
+
+</div>
+
+<div class="about" markdown="1">
+#### Peter Krajčík {#petko}
+*master of expedient*
+
+Peter is very important member of the team. He helps the team with his
+fantastic energy, humor and marvelous music on ukulele. Of course, he helps
+with robots as well. But keeping team happy and in good mood is his part of
+a job. He is also a pizza man. That means he sometimes buy us a pizza.  Which
+is very nice. If you are looking for personal cheerleader, Peter is your
+choice. When he enters our Lab it is much better place than it was before.
+
+</div>
+<div class='clear'></div>
+<!-- /peter -->
+
+
+<!-- marekk -->
+<div class="photo" markdown="1">
+
+</div>
+
+<div class="about" markdown="1">
+#### Marek Košťál {#kostal}
+*master of drills*
+
+Marek is also a key member in our team. He makes a bit of everything: building
+robots, finding components, programming. His humour together with holding
+a drill in his hand cheers the team up. Without him, we wouldn't be a team.
+
+</div>
+<div class='clear'></div>
+<!-- /marekk -->
 
 
 
