@@ -19,6 +19,17 @@ These ones were quite successful:
     <h2 class="timelineMajorMarker"><span>2019</span></h2>
     <dl class="timelineMinor">
 
+      <dt id="event36"><a>RoboCup Junior World Championship Sydney</a></dt>
+      <dd class="timelineEvent" id="event36EX" style="display: none; ">
+        <div><ul>
+             <li>Soccer Lightweight - 14th place</li>
+             <li>Soccer Lightweight Superteams - 2nd place</li>
+             <li><strong>*</strong>Soccer Lightweight - Special award for the best poster & presentation<strong>*</strong></li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
       <dt id="event35"><a>RoboCup Junior Slovak Open</a></dt>
       <dd class="timelineEvent" id="event35EX" style="display: none; ">
         <div><ul>
