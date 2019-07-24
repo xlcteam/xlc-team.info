@@ -12,11 +12,7 @@ There is only one thing we want to tell them.
 **Thank you!**
 
 <div id="sponsors_top">
-    <img src="/img/sponsors/erigones_big_as_deserved.png" alt="Erigones">
-    <img src="/img/sponsors/topolcany.jpg" alt="Mesto Topoľčany">
-    <img src="/img/sponsors/tribecska.png" alt="Základná škola Tribečská">
-    <img src="/img/sponsors/sam.png" alt="SAM - Shipbuilding and Machinery">
-    <img src="https://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png" style="width: 200px;" alt="GitHub">
+    <img src="/img/sponsors/Sydney_2019-sponsors.png" alt="Sydney2019">
 </div>
 
 <div id="sponsors_scroller">
