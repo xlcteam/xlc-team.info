@@ -12,11 +12,10 @@ There is only one thing we want to tell them.
 **Thank you!**
 
 <div id="sponsors_top">
-    <img src="/img/sponsors/erigones_big_as_deserved.png" alt="Erigones">
+    <img src="/img/sponsors/Sydney_2019-sponsors.png" alt="Sydney2019">
     <img src="/img/sponsors/topolcany.jpg" alt="Mesto Topoľčany">
     <img src="/img/sponsors/tribecska.png" alt="Základná škola Tribečská">
-    <img src="/img/sponsors/sam.png" alt="SAM - Shipbuilding and Machinery">
-    <img src="https://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png" style="width: 200px;" alt="GitHub">
+    <img src="/img/sponsors/github-octocat.png" style="width: 200px;" alt="GitHub">
 </div>
 
 <div id="sponsors_scroller">
@@ -43,7 +42,7 @@ There is only one thing we want to tell them.
     <img src="/img/sponsors/dominanz.png" alt="Dominanz">
     <img src="/img/sponsors/topgame.png" alt="TopGame">
     <img src="/img/sponsors/suavinex.png" alt="suavinex">
-    <img src="/img/sponsors/erigones.png" alt="erigones">
+    <img src="/img/sponsors/sam_small.png" alt="SAM - Shipbuilding and Machinery">
 </div>
 
 <script src="/js/libs/imageScroller.js"></script>
