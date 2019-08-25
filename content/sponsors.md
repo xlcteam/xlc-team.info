@@ -12,10 +12,10 @@ There is only one thing we want to tell them.
 **Thank you!**
 
 <div id="sponsors_top">
-    <img src="/img/sponsors/Sydney_2019-sponsors.png" alt="Sydney2019">
-    <img src="/img/sponsors/topolcany.jpg" alt="Mesto Topoľčany">
-    <img src="/img/sponsors/tribecska.png" alt="Základná škola Tribečská">
-    <img src="/img/sponsors/github-octocat.png" style="width: 200px;" alt="GitHub">
+    <img src="/img/sponsors/Sydney_2019-sponsors_2.png" alt="Sydney2019" style="width: 650px;">
+    <img src="/img/sponsors/topolcany.jpg" alt="Mesto Topoľčany" style="width: 150px">
+    <img src="/img/sponsors/tribecska.png" alt="Základná škola Tribečská" style="width: 100px;">
+    <img src="/img/sponsors/github-octocat.png" alt="GitHub" style="width: 100px;">
 </div>
 
 <div id="sponsors_scroller">
