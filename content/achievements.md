@@ -14,6 +14,23 @@ These ones were quite successful:
 
 <div id="timelineContainer">
 
+  <!-- year 2020 -->
+  <div class="timelineMajor">
+    <h2 class="timelineMajorMarker"><span>2020</span></h2>
+    <dl class="timelineMinor">
+
+      <dt id="event38"><a>RoboCup Junior World Championship - Virtual Poster Session</a></dt>
+      <dd class="timelineEvent" id="event38EX" style="display: none; ">
+        <div><ul>
+             <li><strong>*</strong>Soccer Open - Special award for the best poster<strong>*</strong></li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+    </dl>
+  </div>
+
   <!-- year 2019 -->
   <div class="timelineMajor">
     <h2 class="timelineMajorMarker"><span>2019</span></h2>
