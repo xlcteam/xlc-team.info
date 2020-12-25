@@ -18,6 +18,16 @@ These ones were quite successful:
   <div class="timelineMajor">
     <h2 class="timelineMajorMarker"><span>2020</span></h2>
     <dl class="timelineMinor">
+    
+      <dt id="event39"><a>Festival of Science and Technology</a></dt>
+      <dd class="timelineEvent" id="event39EX" style="display: none; ">
+        <div><ul>
+             <li>Awarded for the project <i>Efficient Neural Network for Autonomous Robotic Omniwheeled System</i></li>
+             <li><strong>*</strong>Advanced to the world round <a href="https://www.societyforscience.org/isef/" target="_blank">Regeneron ISEF</a><strong>*</strong></li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
 
       <dt id="event38"><a>RoboCup Junior World Championship - Virtual Poster Session</a></dt>
       <dd class="timelineEvent" id="event38EX" style="display: none; ">
