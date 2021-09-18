@@ -14,11 +14,40 @@ These ones were quite successful:
 
 <div id="timelineContainer">
 
+  <!-- year 2021 -->
+  <div class="timelineMajor">
+    <h2 class="timelineMajorMarker"><span>2021</span></h2>
+    <dl class="timelineMinor">
+
+      <dt id="event41"><a>RoboCup Junior World Championship - Virtual</a></dt>
+      <dd class="timelineEvent" id="event41EX" style="display: none; ">
+        <div><ul>
+             <li>Simulation Challenge Individual Games - 11th place</li>
+             <li>Simulation Challenge Overall - 5th place</li>
+             <li>Soccer Open Overall - 9th place</li>
+             <li><strong>*</strong>Simulation Challenge - Special award for the best technical challenges<strong>*</strong></li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+      <dt id="event40"><a>Regeneron ISEF Virtual</a></dt>
+      <dd class="timelineEvent" id="event40EX" style="display: none; ">
+        <div><ul>
+             <li>Category Robotics and Intelligent Machines - 2nd prize</li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+    </dl>
+  </div>
+
   <!-- year 2020 -->
   <div class="timelineMajor">
     <h2 class="timelineMajorMarker"><span>2020</span></h2>
     <dl class="timelineMinor">
-    
+
       <dt id="event39"><a>Festival of Science and Technology</a></dt>
       <dd class="timelineEvent" id="event39EX" style="display: none; ">
         <div><ul>
