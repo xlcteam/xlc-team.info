@@ -14,6 +14,35 @@ These ones were quite successful:
 
 <div id="timelineContainer">
 
+  <!-- year 2023 -->
+  <div class="timelineMajor">
+    <h2 class="timelineMajorMarker"><span>2023</span></h2>
+    <dl class="timelineMinor">
+
+      <dt id="event44"><a>RoboCup Junior World Championship Bordeaux</a></dt>
+      <dd class="timelineEvent" id="event44EX" style="display: none; ">
+        <div><ul>
+             <li>Soccer Open - participated</li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+      <dt id="event43"><a>RoboCup Junior Slovak Open</a></dt>
+      <dd class="timelineEvent" id="event43EX" style="display: none; ">
+        <div><ul>
+             <li>Robotic arm Primary - 1st prize</li>
+             <li>Soccer Lightweight - 2nd & 3rd prize</li>
+             <li>Soccer Open - 3rd prize</li>
+             <li>Soccer 1v1 - 2nd & 3rd prize</li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+    </dl>
+  </div>
+
   <!-- year 2022 -->
   <div class="timelineMajor">
     <h2 class="timelineMajorMarker"><span>2022</span></h2>
