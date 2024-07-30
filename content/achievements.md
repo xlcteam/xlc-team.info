@@ -14,15 +14,69 @@ These ones were quite successful:
 
 <div id="timelineContainer">
 
+  <!-- year 2024 -->
+  <div class="timelineMajor">
+    <h2 class="timelineMajorMarker"><span>2024</span></h2>
+    <dl class="timelineMinor">
+
+      <dt id="event48"><a>RoboCup Junior World Championship Eindhoven</a></dt>
+      <dd class="timelineEvent" id="event48EX" style="display: none; ">
+        <div><ul>
+             <li>Soccer Open - participated</li>
+             <li>Rescue Line - participated</li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+      <dt id="event47"><a>RoboCup Junior European Championship Hannover</a></dt>
+      <dd class="timelineEvent" id="event47EX" style="display: none; ">
+        <div><ul>
+             <li>Soccer 1v1 Entry - 3rd prize</li>
+             <li><strong>*</strong>Soccer 1v1 Entry - Special award for the best presentation<strong>*</strong></li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+      <dt id="event46"><a>RoboCup Junior Slovak Open</a></dt>
+      <dd class="timelineEvent" id="event46EX" style="display: none; ">
+        <div><ul>
+             <li>Robotic arm Primary - 1st prize</li>
+             <li>Soccer Lightweight - 1st prize</li>
+             <li>Soccer Open - 3rd prize</li>
+             <li>Soccer 1v1 - 2nd prize</li>
+             <li>Rescue Line Secondary - 1st prize</li>
+             <li>Rescue Maze - 2nd prize</li>
+             <li>Rescue Simulation - 2nd prize</li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+    </dl>
+  </div>
+
   <!-- year 2023 -->
   <div class="timelineMajor">
     <h2 class="timelineMajorMarker"><span>2023</span></h2>
     <dl class="timelineMinor">
 
-      <dt id="event44"><a>RoboCup Junior World Championship Bordeaux</a></dt>
-      <dd class="timelineEvent" id="event44EX" style="display: none; ">
+      <dt id="event45"><a>RoboCup Junior World Championship Bordeaux</a></dt>
+      <dd class="timelineEvent" id="event45EX" style="display: none; ">
         <div><ul>
              <li>Soccer Open - participated</li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+      <dt id="event44"><a>RoboCup Junior European Championship Varazdin</a></dt>
+      <dd class="timelineEvent" id="event44EX" style="display: none; ">
+        <div><ul>
+             <li>Rescue Simulation - 2nd prize</li>
+             <li>Rescue Simulation SuperTeams- 1st prize</li>
+             <li>Soccer Lightweight - participated</li>
             </ul>
         </div>
         <br class="clear"/>
@@ -127,7 +181,7 @@ These ones were quite successful:
       <dd class="timelineEvent" id="event37EX" style="display: none; ">
         <div><ul>
              <li>Soccer Lightweight - 14th place</li>
-             <li>Soccer Lightweight Superteams - 2nd place</li>
+             <li>Soccer Lightweight SuperTeams - 2nd place</li>
              <li><strong>*</strong>Soccer Lightweight - Special award for the best poster & presentation<strong>*</strong></li>
             </ul>
         </div>
