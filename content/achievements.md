@@ -22,8 +22,8 @@ These ones were quite successful:
       <dt id="event48"><a>RoboCup Junior World Championship Eindhoven</a></dt>
       <dd class="timelineEvent" id="event48EX" style="display: none; ">
         <div><ul>
-             <li>Soccer Open - participated</li>
-             <li>Rescue Line - participated</li>
+             <li>Soccer Open - 23rd place</li>
+             <li>Rescue Line - 29th place</li>
             </ul>
         </div>
         <br class="clear"/>
@@ -65,7 +65,7 @@ These ones were quite successful:
       <dt id="event45"><a>RoboCup Junior World Championship Bordeaux</a></dt>
       <dd class="timelineEvent" id="event45EX" style="display: none; ">
         <div><ul>
-             <li>Soccer Open - participated</li>
+             <li>Soccer Open - 16th place</li>
             </ul>
         </div>
         <br class="clear"/>
