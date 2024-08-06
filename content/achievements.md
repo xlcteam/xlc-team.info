@@ -22,7 +22,7 @@ These ones were quite successful:
       <dt id="event48"><a>RoboCup Junior World Championship Eindhoven</a></dt>
       <dd class="timelineEvent" id="event48EX" style="display: none; ">
         <div><ul>
-             <li>Soccer Open - 23rd place</li>
+             <li>Soccer Lightweight - 23rd place</li>
              <li>Rescue Line - 29th place</li>
             </ul>
         </div>
