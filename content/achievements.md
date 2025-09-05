@@ -14,6 +14,34 @@ These ones were quite successful:
 
 <div id="timelineContainer">
 
+  <!-- year 2025 -->
+  <div class="timelineMajor">
+    <h2 class="timelineMajorMarker"><span>2025</span></h2>
+    <dl class="timelineMinor">
+
+      <dt id="event50"><a>RoboCup Junior European Championship Bari</a></dt>
+      <dd class="timelineEvent" id="event50EX" style="display: none; ">
+        <div><ul>
+             <li>Soccer 1v1 Entry - 2nd prize</li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+      <dt id="event49"><a>RoboCup Junior Slovak Open</a></dt>
+      <dd class="timelineEvent" id="event49EX" style="display: none; ">
+        <div><ul>
+             <li>Robotic arm Primary - 3rd prize</li>
+             <li>Soccer Lightweight - 3rd prize</li>
+             <li>Soccer 1v1 - 1st prize</li>
+            </ul>
+        </div>
+        <br class="clear"/>
+      </dd>
+
+    </dl>
+  </div>
+
   <!-- year 2024 -->
   <div class="timelineMajor">
     <h2 class="timelineMajorMarker"><span>2024</span></h2>
