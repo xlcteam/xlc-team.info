@@ -23,6 +23,7 @@ These ones were quite successful:
       <dd class="timelineEvent" id="event50EX" style="display: none; ">
         <div><ul>
              <li>Soccer 1v1 Entry - 2nd prize</li>
+             <li>Soccer Lightweight - 4th place</li>
             </ul>
         </div>
         <br class="clear"/>
