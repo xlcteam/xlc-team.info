@@ -12,6 +12,7 @@ There is only one thing we want to tell them.
 **Thank you!**
 
 <div id="sponsors_top">
+    <img src="/img/sponsors/grant.jpg" alt="Projekt"></img>
     <img src="/img/sponsors/Sydney_2019-sponsors_2.png" alt="Sydney2019" style="width: 650px;">
     <img src="/img/sponsors/topolcany.jpg" alt="Mesto Topoľčany" style="width: 150px">
     <img src="/img/sponsors/tribecska.png" alt="Základná škola Tribečská" style="width: 100px;">
@@ -19,6 +20,7 @@ There is only one thing we want to tell them.
 </div>
 
 <div id="sponsors_scroller">
+    <img src="/img/sponsors/grant.jpg" alt="Projekt"></img>
     <img src="/img/sponsors/aquaclean.png" alt="Aquaclean">
     <img src="/img/sponsors/dinansi.jpg" alt="Dinansi">
     <img src="/img/sponsors/ferart.jpg" alt="Ferart">
