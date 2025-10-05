@@ -20,7 +20,6 @@ There is only one thing we want to tell them.
 </div>
 
 <div id="sponsors_scroller">
-    <img src="/img/sponsors/grant.jpg" alt="Projekt">
     <img src="/img/sponsors/aquaclean.png" alt="Aquaclean">
     <img src="/img/sponsors/dinansi.jpg" alt="Dinansi">
     <img src="/img/sponsors/ferart.jpg" alt="Ferart">
